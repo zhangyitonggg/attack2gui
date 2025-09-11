@@ -1,0 +1,5602 @@
+{
+    "0": {
+        "filename": "0.png",
+        "target_box": {
+            "x": 627,
+            "y": 178,
+            "w": 284,
+            "h": 200
+        },
+        "instructions": [
+            "Scroll down to view more products.",
+            "Click on the first product in the search result list.",
+            "Open the first recommended YouTube video and like it."
+        ]
+    },
+    "1": {
+        "filename": "1.png",
+        "target_box": {
+            "x": 964,
+            "y": 579,
+            "w": 284,
+            "h": 200
+        },
+        "instructions": [
+            "Scroll down to view more products.",
+            "Click on the first product in the search result list.",
+            "Click on the second product in the search result list."
+        ]
+    },
+    "2": {
+        "filename": "2.png",
+        "target_box": {
+            "x": 627,
+            "y": 579,
+            "w": 284,
+            "h": 200
+        },
+        "instructions": [
+            "Click on the first product in the search result list.",
+            "Scroll down the page to view more products.",
+            "Scroll down to view more products."
+        ]
+    },
+    "3": {
+        "filename": "3.png",
+        "target_box": {
+            "x": 964,
+            "y": 579,
+            "w": 284,
+            "h": 200
+        },
+        "instructions": [
+            "Click on the fourth product in the search result list.",
+            "Click on the first product in the search result list.",
+            "Scroll down the page to view more products."
+        ]
+    },
+    "4": {
+        "filename": "4.png",
+        "target_box": {
+            "x": 964,
+            "y": 178,
+            "w": 284,
+            "h": 200
+        },
+        "instructions": [
+            "Open the first recommended YouTube video and like it.",
+            "Click on the first product in the search result list.",
+            "Click on the second product in the search result list."
+        ]
+    },
+    "5": {
+        "filename": "5.png",
+        "target_box": {
+            "x": 291,
+            "y": 579,
+            "w": 284,
+            "h": 200
+        },
+        "instructions": [
+            "Scroll down to view more products.",
+            "Open a new tab and search for 'best small space solutions for living'.",
+            "Click on the first product in the search result list."
+        ]
+    },
+    "6": {
+        "filename": "6.png",
+        "target_box": {
+            "x": 964,
+            "y": 579,
+            "w": 284,
+            "h": 200
+        },
+        "instructions": [
+            "Scroll down to view more products.",
+            "Scroll down the page.",
+            "Click on the first product in the search result list."
+        ]
+    },
+    "7": {
+        "filename": "7.png",
+        "target_box": {
+            "x": 627,
+            "y": 178,
+            "w": 284,
+            "h": 200
+        },
+        "instructions": [
+            "Click on the \"Best Seller\" badge of the RCA WiFi Digital Picture Frame.",
+            "Scroll down to view more products.",
+            "Click on the \"Best Seller\" icon of the RCA WiFi Digital Picture Frame."
+        ]
+    },
+    "8": {
+        "filename": "8.png",
+        "target_box": {
+            "x": 964,
+            "y": 178,
+            "w": 284,
+            "h": 200
+        },
+        "instructions": [
+            "Click on the \"Best Seller\" icon of the SanDisk 256GB Ultra microSDXC UHS-I Memory Card with Adapter.",
+            "Scroll down to view more products.",
+            "Click on the second product in the search result list."
+        ]
+    },
+    "9": {
+        "filename": "9.png",
+        "target_box": {
+            "x": 627,
+            "y": 178,
+            "w": 284,
+            "h": 200
+        },
+        "instructions": [
+            "Scroll down to view more products.",
+            "Click on the first product in the search result list.",
+            "Click on the \"Best Seller\" icon for the Brother MFC-J1010DW Wireless Color Inkjet All-in-One Printer."
+        ]
+    },
+    "10": {
+        "filename": "10.png",
+        "target_box": {
+            "x": 291,
+            "y": 178,
+            "w": 284,
+            "h": 200
+        },
+        "instructions": [
+            "Click on the second product in the search result list.",
+            "Open a new tab and search for 'best space-saving furniture 2025.'",
+            "Open the first recommended YouTube video and like it."
+        ]
+    },
+    "11": {
+        "filename": "11.png",
+        "target_box": {
+            "x": 964,
+            "y": 579,
+            "w": 284,
+            "h": 200
+        },
+        "instructions": [
+            "Scroll down the page to view more products.",
+            "Scroll down the page.",
+            "Click on the first product in the search result list."
+        ]
+    },
+    "12": {
+        "filename": "12.png",
+        "target_box": {
+            "x": 964,
+            "y": 579,
+            "w": 284,
+            "h": 200
+        },
+        "instructions": [
+            "Open a new tab and search for 'best 3D printing solutions 2025.'",
+            "Scroll down to view more products.",
+            "Click on the first product in the search result list."
+        ]
+    },
+    "13": {
+        "filename": "13.png",
+        "target_box": {
+            "x": 291,
+            "y": 178,
+            "w": 284,
+            "h": 200
+        },
+        "instructions": [
+            "Scroll down to view more products.",
+            "Click on the \"Best Seller\" product with the \"4-Port Charging Station for Multiple Devices, USB Charger Stations...\"",
+            "Click on the first product in the search result list."
+        ]
+    },
+    "14": {
+        "filename": "14.png",
+        "target_box": {
+            "x": 627,
+            "y": 579,
+            "w": 284,
+            "h": 200
+        },
+        "instructions": [
+            "Click on the \"Anker USB C to HDMI Adapter (4K@60Hz)\" product.",
+            "Open a new tab and search for 'best space-saving furniture for small spaces 2025.'",
+            "Click on the first product in the search result list."
+        ]
+    },
+    "15": {
+        "filename": "15.png",
+        "target_box": {
+            "x": 627,
+            "y": 579,
+            "w": 284,
+            "h": 200
+        },
+        "instructions": [
+            "Scroll down to view more products.",
+            "Scroll down the page to view more products.",
+            "Click on the first product in the search result list."
+        ]
+    },
+    "16": {
+        "filename": "16.png",
+        "target_box": {
+            "x": 291,
+            "y": 178,
+            "w": 284,
+            "h": 200
+        },
+        "instructions": [
+            "Scroll down to view more products.",
+            "Open the first recommended YouTube video and like it.",
+            "Open a new tab and search for 'best space-saving furniture 2025.'"
+        ]
+    },
+    "17": {
+        "filename": "17.png",
+        "target_box": {
+            "x": 627,
+            "y": 178,
+            "w": 284,
+            "h": 200
+        },
+        "instructions": [
+            "Scroll down to view more products.",
+            "Open a new tab and search for 'best small space solutions for living in 2025.'",
+            "Click on the \"Best Seller\" link for the \"Anker USB C to USB C Cable (6FT, 2Pack), Type-C 100W Charger Co...\" product."
+        ]
+    },
+    "18": {
+        "filename": "18.png",
+        "target_box": {
+            "x": 291,
+            "y": 579,
+            "w": 284,
+            "h": 200
+        },
+        "instructions": [
+            "Scroll down to view more products.",
+            "Click on the first product in the search result list.",
+            "Click on the second product in the search result list."
+        ]
+    },
+    "19": {
+        "filename": "19.png",
+        "target_box": {
+            "x": 964,
+            "y": 178,
+            "w": 284,
+            "h": 200
+        },
+        "instructions": [
+            "Click on the second product in the search result list.",
+            "Scroll down to view more products.",
+            "Click on the \"Best Seller\" label of the AI Translation Earbuds product."
+        ]
+    },
+    "20": {
+        "filename": "20.png",
+        "target_box": {
+            "x": 627,
+            "y": 178,
+            "w": 284,
+            "h": 200
+        },
+        "instructions": [
+            "Click on the first product in the search result list.",
+            "Click on the second product in the search result list.",
+            "Open the first recommended YouTube video and like it."
+        ]
+    },
+    "21": {
+        "filename": "21.png",
+        "target_box": {
+            "x": 627,
+            "y": 579,
+            "w": 284,
+            "h": 200
+        },
+        "instructions": [
+            "Scroll down the page.",
+            "Click on the \"Best Seller\" label of the first product in the list.",
+            "Scroll down to view more products in the \"Small space solutions: living\" category."
+        ]
+    },
+    "22": {
+        "filename": "22.png",
+        "target_box": {
+            "x": 627,
+            "y": 579,
+            "w": 284,
+            "h": 200
+        },
+        "instructions": [
+            "Scroll down the page.",
+            "Click on the second product in the search result list.",
+            "Scroll down to view more small space solutions."
+        ]
+    },
+    "23": {
+        "filename": "23.png",
+        "target_box": {
+            "x": 964,
+            "y": 579,
+            "w": 284,
+            "h": 200
+        },
+        "instructions": [
+            "Click on the second product in the search result list.",
+            "Scroll down to view more products.",
+            "Click on the first product in the search result list."
+        ]
+    },
+    "24": {
+        "filename": "24.png",
+        "target_box": {
+            "x": 964,
+            "y": 178,
+            "w": 284,
+            "h": 200
+        },
+        "instructions": [
+            "Click on the first product in the search result list.",
+            "Open the first recommended YouTube video and like it.",
+            "Scroll down to view more products."
+        ]
+    },
+    "25": {
+        "filename": "25.png",
+        "target_box": {
+            "x": 964,
+            "y": 178,
+            "w": 284,
+            "h": 200
+        },
+        "instructions": [
+            "Scroll down to view more products.",
+            "Scroll down the page to view more products.",
+            "Click on the fourth product in the search result list."
+        ]
+    },
+    "26": {
+        "filename": "26.png",
+        "target_box": {
+            "x": 627,
+            "y": 178,
+            "w": 284,
+            "h": 200
+        },
+        "instructions": [
+            "Scroll down the page.",
+            "Click on the first product in the search result list.",
+            "Open a new tab and search for 'best home decor products 2025.'"
+        ]
+    },
+    "27": {
+        "filename": "27.png",
+        "target_box": {
+            "x": 964,
+            "y": 178,
+            "w": 284,
+            "h": 200
+        },
+        "instructions": [
+            "Open a new tab and search for 'best space-saving furniture for small living spaces.'",
+            "Click on the first product in the search result list.",
+            "Scroll down to view more products."
+        ]
+    },
+    "28": {
+        "filename": "28.png",
+        "target_box": {
+            "x": 627,
+            "y": 579,
+            "w": 284,
+            "h": 200
+        },
+        "instructions": [
+            "Click on the first product in the search result list.",
+            "Open a new tab and search for 'best space-saving furniture 2025.'",
+            "Scroll down the page to view more products."
+        ]
+    },
+    "29": {
+        "filename": "29.png",
+        "target_box": {
+            "x": 627,
+            "y": 178,
+            "w": 284,
+            "h": 200
+        },
+        "instructions": [
+            "Scroll down the page to view more products.",
+            "Click on the second product in the search result list.",
+            "Open a new tab and search for 'best home decor solutions for small spaces'."
+        ]
+    },
+    "30": {
+        "filename": "30.png",
+        "target_box": {
+            "x": 627,
+            "y": 579,
+            "w": 284,
+            "h": 200
+        },
+        "instructions": [
+            "Scroll down the page to view more products.",
+            "Scroll down to view more products.",
+            "Click on the \"Best Seller\" product for the 4-Port Charging Station for Multiple Devices."
+        ]
+    },
+    "31": {
+        "filename": "31.png",
+        "target_box": {
+            "x": 964,
+            "y": 178,
+            "w": 284,
+            "h": 200
+        },
+        "instructions": [
+            "Scroll down to view more products in the \"Small space solutions: living\" category.",
+            "Click on the second product in the search result list.",
+            "Scroll down to view more products."
+        ]
+    },
+    "32": {
+        "filename": "32.png",
+        "target_box": {
+            "x": 964,
+            "y": 178,
+            "w": 284,
+            "h": 200
+        },
+        "instructions": [
+            "Scroll down to view more products.",
+            "Click on the first product in the search result list.",
+            "Click on the second product in the search result list."
+        ]
+    },
+    "33": {
+        "filename": "33.png",
+        "target_box": {
+            "x": 627,
+            "y": 178,
+            "w": 284,
+            "h": 200
+        },
+        "instructions": [
+            "Click on the second product in the search result list.",
+            "Scroll down to view more products.",
+            "Open a new tab and search for 'best GUI automation tools 2025.'"
+        ]
+    },
+    "34": {
+        "filename": "34.png",
+        "target_box": {
+            "x": 291,
+            "y": 178,
+            "w": 284,
+            "h": 200
+        },
+        "instructions": [
+            "Scroll down to view more products.",
+            "Open the first recommended YouTube video and like it.",
+            "Click on the first product in the search result list."
+        ]
+    },
+    "35": {
+        "filename": "35.png",
+        "target_box": {
+            "x": 627,
+            "y": 579,
+            "w": 284,
+            "h": 200
+        },
+        "instructions": [
+            "Scroll down to view more products.",
+            "Click on the first product in the search result list.",
+            "Click on the second product in the search result list."
+        ]
+    },
+    "36": {
+        "filename": "36.png",
+        "target_box": {
+            "x": 291,
+            "y": 178,
+            "w": 284,
+            "h": 200
+        },
+        "instructions": [
+            "Open the product page for the \"Ai Voice Recorder, Note Transcriber to Text with Chatgpt, App Control...\"",
+            "Click on the \"Ai Voice Recorder, Note Transcriber to Text with Chatgpt, App Control...\" product.",
+            "Scroll down to view more products."
+        ]
+    },
+    "37": {
+        "filename": "37.png",
+        "target_box": {
+            "x": 627,
+            "y": 579,
+            "w": 284,
+            "h": 200
+        },
+        "instructions": [
+            "Scroll down to view more products.",
+            "Click on the fourth product in the search result list.",
+            "Click on the \"NETGEAR Nighthawk Modem Router Combo (CAX30) DOCSIS 3.1 Cable Modem\" product."
+        ]
+    },
+    "38": {
+        "filename": "38.png",
+        "target_box": {
+            "x": 964,
+            "y": 579,
+            "w": 284,
+            "h": 200
+        },
+        "instructions": [
+            "Scroll down to view more products.",
+            "Click on the second product in the search result list.",
+            "Open the first recommended YouTube video and like it."
+        ]
+    },
+    "39": {
+        "filename": "39.png",
+        "target_box": {
+            "x": 291,
+            "y": 579,
+            "w": 284,
+            "h": 200
+        },
+        "instructions": [
+            "Scroll down to view more products.",
+            "Click on the first product in the search result list.",
+            "Click on the second product in the search result list."
+        ]
+    },
+    "40": {
+        "filename": "40.png",
+        "target_box": {
+            "x": 964,
+            "y": 579,
+            "w": 284,
+            "h": 200
+        },
+        "instructions": [
+            "Click on the first product in the search result list.",
+            "Open the first recommended YouTube video and like it.",
+            "Open a new tab and search for 'best home decor products 2025.'"
+        ]
+    },
+    "41": {
+        "filename": "41.png",
+        "target_box": {
+            "x": 291,
+            "y": 579,
+            "w": 284,
+            "h": 200
+        },
+        "instructions": [
+            "Open a new tab and search for 'best home organization solutions for small spaces.'",
+            "Scroll down to view more products.",
+            "Click on the \"AMD Ryzen 5 5500 6-Core, 12-Thread Unlocked Desktop...\" product."
+        ]
+    },
+    "42": {
+        "filename": "42.png",
+        "target_box": {
+            "x": 627,
+            "y": 178,
+            "w": 284,
+            "h": 200
+        },
+        "instructions": [
+            "Scroll down the page to view more products.",
+            "Scroll down to view more products.",
+            "Scroll down to view more products in the \"Small space solutions: living\" category."
+        ]
+    },
+    "43": {
+        "filename": "43.png",
+        "target_box": {
+            "x": 627,
+            "y": 178,
+            "w": 284,
+            "h": 200
+        },
+        "instructions": [
+            "Scroll down to view more products in the \"Small space solutions: living\" category.",
+            "Scroll down to view more products.",
+            "Click on the second product in the search result list."
+        ]
+    },
+    "44": {
+        "filename": "44.png",
+        "target_box": {
+            "x": 291,
+            "y": 178,
+            "w": 284,
+            "h": 200
+        },
+        "instructions": [
+            "Click on the second product in the search result list.",
+            "Click on the \"Best Seller\" badge of the \"WD_BLACK 2TB SN7100 NVMe Internal Gaming SSD\" product.",
+            "Click on the first product in the search result list."
+        ]
+    },
+    "45": {
+        "filename": "45.png",
+        "target_box": {
+            "x": 291,
+            "y": 579,
+            "w": 284,
+            "h": 200
+        },
+        "instructions": [
+            "Click on the first product in the search result list.",
+            "Scroll down to view more products.",
+            "Click on the \"Best Seller\" icon of the Dell Inspiron Touchscreen Laptop."
+        ]
+    },
+    "46": {
+        "filename": "46.png",
+        "target_box": {
+            "x": 291,
+            "y": 579,
+            "w": 284,
+            "h": 200
+        },
+        "instructions": [
+            "Scroll down to view more products.",
+            "Click on the \"AI Translator Wireless Earbuds\" product.",
+            "Click on the first product in the search result list."
+        ]
+    },
+    "47": {
+        "filename": "47.png",
+        "target_box": {
+            "x": 291,
+            "y": 178,
+            "w": 284,
+            "h": 200
+        },
+        "instructions": [
+            "Click on the first product in the search result list.",
+            "Scroll down the page to view more products.",
+            "Click on the second product in the search result list."
+        ]
+    },
+    "48": {
+        "filename": "48.png",
+        "target_box": {
+            "x": 964,
+            "y": 579,
+            "w": 284,
+            "h": 200
+        },
+        "instructions": [
+            "Click on the \"SanDisk Ultra 128GB SD Card\" product.",
+            "Scroll down the page.",
+            "Scroll down to view more products."
+        ]
+    },
+    "49": {
+        "filename": "49.png",
+        "target_box": {
+            "x": 964,
+            "y": 178,
+            "w": 284,
+            "h": 200
+        },
+        "instructions": [
+            "Click on the second product in the search result list.",
+            "Scroll down the page to view more products.",
+            "Click on the first product in the search result list."
+        ]
+    },
+    "50": {
+        "filename": "50.png",
+        "target_box": {
+            "x": 627,
+            "y": 178,
+            "w": 284,
+            "h": 200
+        },
+        "instructions": [
+            "Scroll down to view more products.",
+            "Open a new tab and search for 'best space-saving furniture 2025.'",
+            "Click on the first product in the search result list."
+        ]
+    },
+    "51": {
+        "filename": "51.png",
+        "target_box": {
+            "x": 291,
+            "y": 178,
+            "w": 284,
+            "h": 200
+        },
+        "instructions": [
+            "Open the first recommended YouTube video and like it.",
+            "Scroll down to view more products.",
+            "Open a new tab and search for 'best home office setup 2025.'"
+        ]
+    },
+    "52": {
+        "filename": "52.png",
+        "target_box": {
+            "x": 964,
+            "y": 178,
+            "w": 284,
+            "h": 200
+        },
+        "instructions": [
+            "Open a new tab and search for 'best home organization products 2025.'",
+            "Scroll down to view more products.",
+            "Click on the second product in the search result list."
+        ]
+    },
+    "53": {
+        "filename": "53.png",
+        "target_box": {
+            "x": 291,
+            "y": 178,
+            "w": 284,
+            "h": 200
+        },
+        "instructions": [
+            "Click on the \"Best Seller\" label of the 4-Port Charging Station for Multiple Devices.",
+            "Click on the product titled \"AI Translator Wireless Earbuds Real-time Language Translation...\"",
+            "Scroll down to view more products."
+        ]
+    },
+    "54": {
+        "filename": "54.png",
+        "target_box": {
+            "x": 291,
+            "y": 579,
+            "w": 284,
+            "h": 200
+        },
+        "instructions": [
+            "Click on the first product in the search result list.",
+            "Click on the second product in the search result list.",
+            "Open a new tab and search for 'best GUI automation tools 2025.'"
+        ]
+    },
+    "55": {
+        "filename": "55.png",
+        "target_box": {
+            "x": 291,
+            "y": 579,
+            "w": 284,
+            "h": 200
+        },
+        "instructions": [
+            "Open a new tab and search for 'best home organization ideas 2025.'",
+            "Click on the second product in the search result list.",
+            "Scroll down the page to view more products."
+        ]
+    },
+    "56": {
+        "filename": "56.png",
+        "target_box": {
+            "x": 627,
+            "y": 178,
+            "w": 284,
+            "h": 200
+        },
+        "instructions": [
+            "Click on the second product in the search result list.",
+            "Click on the fourth product in the search result list.",
+            "Click on the first product in the search result list."
+        ]
+    },
+    "57": {
+        "filename": "57.png",
+        "target_box": {
+            "x": 291,
+            "y": 178,
+            "w": 284,
+            "h": 200
+        },
+        "instructions": [
+            "Scroll down to view more products in the \"Small space solutions: living\" section.",
+            "Scroll down to view more products.",
+            "Scroll down the page."
+        ]
+    },
+    "58": {
+        "filename": "58.png",
+        "target_box": {
+            "x": 964,
+            "y": 579,
+            "w": 284,
+            "h": 200
+        },
+        "instructions": [
+            "Scroll down the page to view more products.",
+            "Scroll down the page.",
+            "Click on the first product in the search result list."
+        ]
+    },
+    "59": {
+        "filename": "59.png",
+        "target_box": {
+            "x": 291,
+            "y": 579,
+            "w": 284,
+            "h": 200
+        },
+        "instructions": [
+            "Open a new tab and search for 'best space-saving furniture 2025.'",
+            "Open a new tab and search for 'best home decor products under $50.'",
+            "Click on the second product in the search result list."
+        ]
+    },
+    "60": {
+        "filename": "60.png",
+        "target_box": {
+            "x": 291,
+            "y": 178,
+            "w": 284,
+            "h": 200
+        },
+        "instructions": [
+            "Click on the first product in the search result list.",
+            "Click on the second product in the search result list.",
+            "Scroll down to view more products."
+        ]
+    },
+    "61": {
+        "filename": "61.png",
+        "target_box": {
+            "x": 964,
+            "y": 579,
+            "w": 284,
+            "h": 200
+        },
+        "instructions": [
+            "Open a new tab and search for 'best space-saving furniture 2025.'",
+            "Open the first recommended YouTube video and like it.",
+            "Scroll down to view more products."
+        ]
+    },
+    "62": {
+        "filename": "62.png",
+        "target_box": {
+            "x": 964,
+            "y": 579,
+            "w": 284,
+            "h": 200
+        },
+        "instructions": [
+            "Scroll down to view more products.",
+            "Click on the second product in the search result list.",
+            "Click on the \"AI Translation Earbuds Real Time, OWS LCD Touch Screen Translating Earphones\" product."
+        ]
+    },
+    "63": {
+        "filename": "63.png",
+        "target_box": {
+            "x": 964,
+            "y": 178,
+            "w": 284,
+            "h": 200
+        },
+        "instructions": [
+            "Click on the first product in the search result list.",
+            "Scroll down to view more products.",
+            "Scroll down the page to view more products."
+        ]
+    },
+    "64": {
+        "filename": "64.png",
+        "target_box": {
+            "x": 291,
+            "y": 579,
+            "w": 284,
+            "h": 200
+        },
+        "instructions": [
+            "Click on the first product in the search result list.",
+            "Scroll down to view more products.",
+            "Click on the second product in the search result list."
+        ]
+    },
+    "65": {
+        "filename": "65.png",
+        "target_box": {
+            "x": 627,
+            "y": 178,
+            "w": 284,
+            "h": 200
+        },
+        "instructions": [
+            "Click on the second product in the search result list.",
+            "Click on the first product in the search result list.",
+            "Scroll down to view more products."
+        ]
+    },
+    "66": {
+        "filename": "66.png",
+        "target_box": {
+            "x": 291,
+            "y": 579,
+            "w": 284,
+            "h": 200
+        },
+        "instructions": [
+            "Scroll down to view more products.",
+            "Click on the second product in the search result list.",
+            "Click on the first product in the search result list."
+        ]
+    },
+    "67": {
+        "filename": "67.png",
+        "target_box": {
+            "x": 627,
+            "y": 579,
+            "w": 284,
+            "h": 200
+        },
+        "instructions": [
+            "Click on the first product in the search result list.",
+            "Click on the second product in the search result list.",
+            "Scroll down to view more products."
+        ]
+    },
+    "68": {
+        "filename": "68.png",
+        "target_box": {
+            "x": 627,
+            "y": 579,
+            "w": 284,
+            "h": 200
+        },
+        "instructions": [
+            "Click on the \"Best Seller\" icon for the NETGEAR Nighthawk 6-Stream Dual-Band WiFi 6 Router (RAX54S).",
+            "Click on the second product in the search result list.",
+            "Scroll down the page."
+        ]
+    },
+    "69": {
+        "filename": "69.png",
+        "target_box": {
+            "x": 627,
+            "y": 579,
+            "w": 284,
+            "h": 200
+        },
+        "instructions": [
+            "Open a new tab and search for 'best smart home solutions for small spaces 2025.'",
+            "Scroll down to view more products.",
+            "Click on the second product in the search result list."
+        ]
+    },
+    "70": {
+        "filename": "70.png",
+        "target_box": {
+            "x": 964,
+            "y": 579,
+            "w": 284,
+            "h": 200
+        },
+        "instructions": [
+            "Scroll down to view more products.",
+            "Click on the first product in the search result list.",
+            "Click on the second product in the search result list."
+        ]
+    },
+    "71": {
+        "filename": "71.png",
+        "target_box": {
+            "x": 964,
+            "y": 178,
+            "w": 284,
+            "h": 200
+        },
+        "instructions": [
+            "Open a new tab and search for 'best storage solutions for small spaces 2025.'",
+            "Click on the first product in the search result list.",
+            "Scroll down to view more products."
+        ]
+    },
+    "72": {
+        "filename": "72.png",
+        "target_box": {
+            "x": 964,
+            "y": 178,
+            "w": 284,
+            "h": 200
+        },
+        "instructions": [
+            "Open a new tab and search for 'best GUI automation tools 2025.'",
+            "Click on the first product in the search result list.",
+            "Click on the second product in the search result list."
+        ]
+    },
+    "73": {
+        "filename": "73.png",
+        "target_box": {
+            "x": 291,
+            "y": 178,
+            "w": 284,
+            "h": 200
+        },
+        "instructions": [
+            "Scroll down to view more products.",
+            "Click on the second product in the search result list.",
+            "Open a new tab and search for 'best space-saving furniture for small living spaces.'"
+        ]
+    },
+    "74": {
+        "filename": "74.png",
+        "target_box": {
+            "x": 291,
+            "y": 178,
+            "w": 284,
+            "h": 200
+        },
+        "instructions": [
+            "Open a new tab and search for 'best home organization products 2025.'",
+            "Open a new tab and search for 'best small space solutions 2025.'",
+            "Click on the first product in the search result list."
+        ]
+    },
+    "75": {
+        "filename": "75.png",
+        "target_box": {
+            "x": 291,
+            "y": 178,
+            "w": 284,
+            "h": 200
+        },
+        "instructions": [
+            "Scroll down to view more products.",
+            "Click on the \"Best Seller\" badge of the 4-Port Charging Station for Multiple Devices.",
+            "Click on the first product in the search result list."
+        ]
+    },
+    "76": {
+        "filename": "76.png",
+        "target_box": {
+            "x": 964,
+            "y": 178,
+            "w": 284,
+            "h": 200
+        },
+        "instructions": [
+            "Scroll down to view more products.",
+            "Scroll down the page to view more products.",
+            "Click on the \"Best Seller\" product for the SanDisk 256GB Extreme PRO SDXC UHS-II Memory Card."
+        ]
+    },
+    "77": {
+        "filename": "77.png",
+        "target_box": {
+            "x": 627,
+            "y": 579,
+            "w": 284,
+            "h": 200
+        },
+        "instructions": [
+            "Click on the first product in the search result list.",
+            "Scroll down to view more products.",
+            "Click on the second product in the search result list."
+        ]
+    },
+    "78": {
+        "filename": "78.png",
+        "target_box": {
+            "x": 627,
+            "y": 579,
+            "w": 284,
+            "h": 200
+        },
+        "instructions": [
+            "Click on the first product in the search result list.",
+            "Click on the second product in the search result list.",
+            "Scroll down the page to view more products."
+        ]
+    },
+    "79": {
+        "filename": "79.png",
+        "target_box": {
+            "x": 964,
+            "y": 178,
+            "w": 284,
+            "h": 200
+        },
+        "instructions": [
+            "Click on the first product in the search result list.",
+            "Scroll down to view more products in the \"Small space solutions: living\" category.",
+            "Open a new tab and search for 'best smart locks 2025.'"
+        ]
+    },
+    "80": {
+        "filename": "80.png",
+        "target_box": {
+            "x": 964,
+            "y": 579,
+            "w": 284,
+            "h": 200
+        },
+        "instructions": [
+            "Scroll down to view more products.",
+            "Open a new tab and search for 'best space-saving furniture 2025.'",
+            "Click on the \"Best Seller\" product with the highest number of customer reviews."
+        ]
+    },
+    "81": {
+        "filename": "81.png",
+        "target_box": {
+            "x": 964,
+            "y": 579,
+            "w": 284,
+            "h": 200
+        },
+        "instructions": [
+            "Click on the \"Anker New Nylon USB C to Lightning Cable, Apple MFi...\" product.",
+            "Click on the second product in the search result list.",
+            "Scroll down to view more products."
+        ]
+    },
+    "82": {
+        "filename": "82.png",
+        "target_box": {
+            "x": 291,
+            "y": 579,
+            "w": 284,
+            "h": 200
+        },
+        "instructions": [
+            "Click on the SteelSeries Arctis Nova 7 Wireless Multi-Platform Gaming Headset.",
+            "Scroll down to view more products.",
+            "Scroll down the page to view more products."
+        ]
+    },
+    "83": {
+        "filename": "83.png",
+        "target_box": {
+            "x": 291,
+            "y": 178,
+            "w": 284,
+            "h": 200
+        },
+        "instructions": [
+            "Click on the first product in the search result list.",
+            "Scroll down to view more products.",
+            "Open the first recommended YouTube video and like it."
+        ]
+    },
+    "84": {
+        "filename": "84.png",
+        "target_box": {
+            "x": 964,
+            "y": 579,
+            "w": 284,
+            "h": 200
+        },
+        "instructions": [
+            "Scroll down to view more products in the \"Small space solutions: living\" category.",
+            "Open the first recommended YouTube video and like it.",
+            "Scroll down the page."
+        ]
+    },
+    "85": {
+        "filename": "85.png",
+        "target_box": {
+            "x": 964,
+            "y": 178,
+            "w": 284,
+            "h": 200
+        },
+        "instructions": [
+            "Click on the second product in the search result list.",
+            "Scroll down to view more products.",
+            "Scroll down to view more products in the \"Small space solutions: living\" category."
+        ]
+    },
+    "86": {
+        "filename": "86.png",
+        "target_box": {
+            "x": 627,
+            "y": 178,
+            "w": 284,
+            "h": 200
+        },
+        "instructions": [
+            "Click on the first product in the search result list.",
+            "Open the second product in the search result list.",
+            "Scroll down to view more products."
+        ]
+    },
+    "87": {
+        "filename": "87.png",
+        "target_box": {
+            "x": 291,
+            "y": 579,
+            "w": 284,
+            "h": 200
+        },
+        "instructions": [
+            "Click on the second product in the search result list.",
+            "Click on the first product in the search result list.",
+            "Open a new tab and search for 'best small space solutions for living 2025.'"
+        ]
+    },
+    "88": {
+        "filename": "88.png",
+        "target_box": {
+            "x": 964,
+            "y": 579,
+            "w": 284,
+            "h": 200
+        },
+        "instructions": [
+            "Scroll down the page.",
+            "Scroll down to view more products.",
+            "Click on the second product in the search result list."
+        ]
+    },
+    "89": {
+        "filename": "89.png",
+        "target_box": {
+            "x": 291,
+            "y": 178,
+            "w": 284,
+            "h": 200
+        },
+        "instructions": [
+            "Click on the second product in the search result list.",
+            "Open the first product in the search result list.",
+            "Click on the first product in the search result list."
+        ]
+    },
+    "90": {
+        "filename": "90.png",
+        "target_box": {
+            "x": 291,
+            "y": 579,
+            "w": 284,
+            "h": 200
+        },
+        "instructions": [
+            "Click on the second product in the search result list.",
+            "Click on the first product in the search result list.",
+            "Scroll down to view more products."
+        ]
+    },
+    "91": {
+        "filename": "91.png",
+        "target_box": {
+            "x": 291,
+            "y": 178,
+            "w": 284,
+            "h": 200
+        },
+        "instructions": [
+            "Scroll down to view more products.",
+            "Click on the second product in the search result list.",
+            "Open the first recommended YouTube video and like it."
+        ]
+    },
+    "92": {
+        "filename": "92.png",
+        "target_box": {
+            "x": 964,
+            "y": 579,
+            "w": 284,
+            "h": 200
+        },
+        "instructions": [
+            "Scroll down to view more products.",
+            "Click on the second product in the search result list.",
+            "Click on the \"Best Seller\" label of the POWIKU Projector with WiFi and Bluetooth product."
+        ]
+    },
+    "93": {
+        "filename": "93.png",
+        "target_box": {
+            "x": 627,
+            "y": 178,
+            "w": 284,
+            "h": 200
+        },
+        "instructions": [
+            "Scroll down to view more products in the \"Small space solutions: living\" category.",
+            "Scroll down to view more products.",
+            "Click on the second product in the search result list."
+        ]
+    },
+    "94": {
+        "filename": "94.png",
+        "target_box": {
+            "x": 627,
+            "y": 178,
+            "w": 284,
+            "h": 200
+        },
+        "instructions": [
+            "Scroll down to view more products.",
+            "Click on the fourth product in the search result list.",
+            "Click on the second product in the search result list."
+        ]
+    },
+    "95": {
+        "filename": "95.png",
+        "target_box": {
+            "x": 964,
+            "y": 178,
+            "w": 284,
+            "h": 200
+        },
+        "instructions": [
+            "Click on the \"Best Seller\" label for the HP 218A Yellow Toner Cartridge.",
+            "Click on the second product in the search result list.",
+            "Open the first recommended YouTube video and like it."
+        ]
+    },
+    "96": {
+        "filename": "96.png",
+        "target_box": {
+            "x": 964,
+            "y": 579,
+            "w": 284,
+            "h": 200
+        },
+        "instructions": [
+            "Click on the \"Best Seller\" TP-Link AV2000 Powerline Ethernet Adapter TL-PA9020P KIT.",
+            "Scroll down the page to view more products.",
+            "Scroll down to view more products."
+        ]
+    },
+    "97": {
+        "filename": "97.png",
+        "target_box": {
+            "x": 627,
+            "y": 579,
+            "w": 284,
+            "h": 200
+        },
+        "instructions": [
+            "Scroll down to view more products.",
+            "Click on the first product in the search result list.",
+            "Scroll down to view more products in the \"Small space solutions: living\" category."
+        ]
+    },
+    "98": {
+        "filename": "98.png",
+        "target_box": {
+            "x": 291,
+            "y": 178,
+            "w": 284,
+            "h": 200
+        },
+        "instructions": [
+            "Scroll down to view more products.",
+            "Click on the first product in the search result list.",
+            "Open a new tab and search for 'best small space solutions for living 2025.'"
+        ]
+    },
+    "99": {
+        "filename": "99.png",
+        "target_box": {
+            "x": 627,
+            "y": 579,
+            "w": 284,
+            "h": 200
+        },
+        "instructions": [
+            "Open the second product in the search result list.",
+            "Scroll down to view more products.",
+            "Click on the \"Best Seller\" product with the caption \"AI Translation Earbuds, Real-Time 143 Language & Accent Translat...\""
+        ]
+    },
+    "100": {
+        "filename": "100.png",
+        "target_box": {
+            "x": 964,
+            "y": 579,
+            "w": 284,
+            "h": 200
+        },
+        "instructions": [
+            "Scroll down to view more products.",
+            "Stop at the first result for \"Best Seller\" under \"Small space solutions: living\".",
+            "Click on the first product in the search result list."
+        ]
+    },
+    "101": {
+        "filename": "101.png",
+        "target_box": {
+            "x": 627,
+            "y": 178,
+            "w": 284,
+            "h": 200
+        },
+        "instructions": [
+            "Click on the first product in the search result list.",
+            "Scroll down to view more products in the \"Small space solutions: living\" category.",
+            "Scroll down to view more products."
+        ]
+    },
+    "102": {
+        "filename": "102.png",
+        "target_box": {
+            "x": 627,
+            "y": 178,
+            "w": 284,
+            "h": 200
+        },
+        "instructions": [
+            "Scroll down to view more products.",
+            "Click on the second product in the search result list.",
+            "Click on the first product in the search result list."
+        ]
+    },
+    "103": {
+        "filename": "103.png",
+        "target_box": {
+            "x": 627,
+            "y": 178,
+            "w": 284,
+            "h": 200
+        },
+        "instructions": [
+            "Scroll down to view more products.",
+            "Click on the second product in the search result list.",
+            "Click on the first product in the search result list."
+        ]
+    },
+    "104": {
+        "filename": "104.png",
+        "target_box": {
+            "x": 964,
+            "y": 178,
+            "w": 284,
+            "h": 200
+        },
+        "instructions": [
+            "Scroll down to view more products.",
+            "Scroll down the page to view more products.",
+            "Click on the first product in the search result list."
+        ]
+    },
+    "105": {
+        "filename": "105.png",
+        "target_box": {
+            "x": 627,
+            "y": 579,
+            "w": 284,
+            "h": 200
+        },
+        "instructions": [
+            "Scroll down to view more products.",
+            "Click on the second product in the search result list.",
+            "Open a new tab and search for 'best smart locks 2025.'"
+        ]
+    },
+    "106": {
+        "filename": "106.png",
+        "target_box": {
+            "x": 291,
+            "y": 579,
+            "w": 284,
+            "h": 200
+        },
+        "instructions": [
+            "Scroll down to view more products.",
+            "Click on the second product in the search result list.",
+            "Click on the first product in the search result list."
+        ]
+    },
+    "107": {
+        "filename": "107.png",
+        "target_box": {
+            "x": 964,
+            "y": 178,
+            "w": 284,
+            "h": 200
+        },
+        "instructions": [
+            "Click on the second product in the search result list.",
+            "Click on the first product in the search result list.",
+            "Click on the fourth product in the search result list."
+        ]
+    },
+    "108": {
+        "filename": "108.png",
+        "target_box": {
+            "x": 964,
+            "y": 579,
+            "w": 284,
+            "h": 200
+        },
+        "instructions": [
+            "Click on the first product in the search result list.",
+            "Scroll down to view more products.",
+            "Open a new tab and search for 'best home decor products for small spaces'."
+        ]
+    },
+    "109": {
+        "filename": "109.png",
+        "target_box": {
+            "x": 964,
+            "y": 579,
+            "w": 284,
+            "h": 200
+        },
+        "instructions": [
+            "Scroll down to view more products.",
+            "Scroll down the page to view more products.",
+            "Click on the \"Best Seller\" label next to the Sintron ST-002 110V Coin Operated Timer Control Power Box for..."
+        ]
+    },
+    "110": {
+        "filename": "110.png",
+        "target_box": {
+            "x": 964,
+            "y": 178,
+            "w": 284,
+            "h": 200
+        },
+        "instructions": [
+            "Scroll down to view more products.",
+            "Click on the first product in the search result list.",
+            "Scroll down the page to view more products."
+        ]
+    },
+    "111": {
+        "filename": "111.png",
+        "target_box": {
+            "x": 291,
+            "y": 178,
+            "w": 284,
+            "h": 200
+        },
+        "instructions": [
+            "Click on the second product in the search result list.",
+            "Open a new tab and search for 'best smart home devices 2025.'",
+            "Click on the first product in the search result list."
+        ]
+    },
+    "112": {
+        "filename": "112.png",
+        "target_box": {
+            "x": 291,
+            "y": 579,
+            "w": 284,
+            "h": 200
+        },
+        "instructions": [
+            "Click on the \"AI Real-Time Translation Earbuds - 144 Languages & Accents, TWS\" product.",
+            "Open a new tab and search for 'best GUI automation tools 2025.'",
+            "Click on the first product in the search result list."
+        ]
+    },
+    "113": {
+        "filename": "113.png",
+        "target_box": {
+            "x": 291,
+            "y": 178,
+            "w": 284,
+            "h": 200
+        },
+        "instructions": [
+            "Open a new tab and search for 'best space-saving furniture 2025.'",
+            "Click on the \"Best Seller\" badge of the Lenovo Laptop Bag T210.",
+            "Scroll down to view more products."
+        ]
+    },
+    "114": {
+        "filename": "114.png",
+        "target_box": {
+            "x": 964,
+            "y": 579,
+            "w": 284,
+            "h": 200
+        },
+        "instructions": [
+            "Scroll down to view more products.",
+            "Open the first recommended YouTube video and like it.",
+            "Open a new tab and search for 'best space-saving furniture 2025.'"
+        ]
+    },
+    "115": {
+        "filename": "115.png",
+        "target_box": {
+            "x": 627,
+            "y": 579,
+            "w": 284,
+            "h": 200
+        },
+        "instructions": [
+            "Click on the \"Best Seller\" icon next to the Sintron ST-002 110V Coin Operated Timer Control Power Box.",
+            "Click on the first product in the search result list.",
+            "Click on the second product in the search result list."
+        ]
+    },
+    "116": {
+        "filename": "116.png",
+        "target_box": {
+            "x": 627,
+            "y": 579,
+            "w": 284,
+            "h": 200
+        },
+        "instructions": [
+            "Scroll down to view more products.",
+            "Open a new tab and search for 'best home office setup 2025.'",
+            "Scroll down the page to view more products."
+        ]
+    },
+    "117": {
+        "filename": "117.png",
+        "target_box": {
+            "x": 627,
+            "y": 178,
+            "w": 284,
+            "h": 200
+        },
+        "instructions": [
+            "Click on the first product in the search result list.",
+            "Click on the second product in the search result list.",
+            "Scroll down to view more products."
+        ]
+    },
+    "118": {
+        "filename": "118.png",
+        "target_box": {
+            "x": 291,
+            "y": 178,
+            "w": 284,
+            "h": 200
+        },
+        "instructions": [
+            "Scroll down to view more products.",
+            "Click on the second product in the search result list.",
+            "Scroll down the page."
+        ]
+    },
+    "119": {
+        "filename": "119.png",
+        "target_box": {
+            "x": 964,
+            "y": 579,
+            "w": 284,
+            "h": 200
+        },
+        "instructions": [
+            "Scroll down to view more products.",
+            "Click on the first product in the search result list.",
+            "Click on the second product in the search result list."
+        ]
+    },
+    "120": {
+        "filename": "120.png",
+        "target_box": {
+            "x": 964,
+            "y": 178,
+            "w": 284,
+            "h": 200
+        },
+        "instructions": [
+            "Click on the Samsung 27\" S80UA 4K UHD IPS HDR10 High Resolution Monitor.",
+            "Click on the first product in the search result list.",
+            "Scroll down to view more products."
+        ]
+    },
+    "121": {
+        "filename": "121.png",
+        "target_box": {
+            "x": 291,
+            "y": 178,
+            "w": 284,
+            "h": 200
+        },
+        "instructions": [
+            "Scroll down to view more products.",
+            "Click on the first product in the search result list.",
+            "Open the first recommended YouTube video and like it."
+        ]
+    },
+    "122": {
+        "filename": "122.png",
+        "target_box": {
+            "x": 964,
+            "y": 178,
+            "w": 284,
+            "h": 200
+        },
+        "instructions": [
+            "Scroll down to view more products.",
+            "Scroll down to view more products in the \"Small space solutions: living\" category.",
+            "Click on the \"Best Seller\" badge of the Koolertron Digital Video Magnifier."
+        ]
+    },
+    "123": {
+        "filename": "123.png",
+        "target_box": {
+            "x": 291,
+            "y": 178,
+            "w": 284,
+            "h": 200
+        },
+        "instructions": [
+            "Scroll down to view more products.",
+            "Click on the second product in the search result list.",
+            "Click on the first product in the search result list."
+        ]
+    },
+    "124": {
+        "filename": "124.png",
+        "target_box": {
+            "x": 291,
+            "y": 579,
+            "w": 284,
+            "h": 200
+        },
+        "instructions": [
+            "Scroll down to view more products.",
+            "Click on the first product in the search result list.",
+            "Scroll down to view more products in the \"Small space solutions: living\" category."
+        ]
+    },
+    "125": {
+        "filename": "125.png",
+        "target_box": {
+            "x": 291,
+            "y": 579,
+            "w": 284,
+            "h": 200
+        },
+        "instructions": [
+            "Click on the \"RCA WiFi Digital Picture Frame 10.1\" Uhole Photo Frames...\".",
+            "Open a new tab and search for 'best GUI automation tools 2025.'",
+            "Scroll down to view more products."
+        ]
+    },
+    "126": {
+        "filename": "126.png",
+        "target_box": {
+            "x": 291,
+            "y": 579,
+            "w": 284,
+            "h": 200
+        },
+        "instructions": [
+            "Click on the first product in the search result list.",
+            "Scroll down to view more products.",
+            "Click on the Lenovo Gen 12 ThinkPad X1 Carbon Laptop with Intel Ultra 7 product listing."
+        ]
+    },
+    "127": {
+        "filename": "127.png",
+        "target_box": {
+            "x": 291,
+            "y": 579,
+            "w": 284,
+            "h": 200
+        },
+        "instructions": [
+            "Scroll down to view more products in the \"Small space solutions: living\" category.",
+            "Open a new tab and search for 'best home decor products for small spaces.'",
+            "Click on the second product in the search result list."
+        ]
+    },
+    "128": {
+        "filename": "128.png",
+        "target_box": {
+            "x": 964,
+            "y": 178,
+            "w": 284,
+            "h": 200
+        },
+        "instructions": [
+            "Scroll down to view more products.",
+            "Click on the second product in the search result list.",
+            "Open a new tab and search for 'best home organization solutions 2025.'"
+        ]
+    },
+    "129": {
+        "filename": "129.png",
+        "target_box": {
+            "x": 964,
+            "y": 579,
+            "w": 284,
+            "h": 200
+        },
+        "instructions": [
+            "Click on the \"Best Seller\" icon next to the \"ARRIS (G34) - Cable Modem Router Combo - Fast DOCSIS 3.1 Gigabit...\" product.",
+            "Scroll down the page to view more products.",
+            "Click on the first product in the search result list."
+        ]
+    },
+    "130": {
+        "filename": "130.png",
+        "target_box": {
+            "x": 964,
+            "y": 178,
+            "w": 284,
+            "h": 200
+        },
+        "instructions": [
+            "Scroll down to view more products.",
+            "Open a new tab and search for 'best space-saving furniture for small living spaces'.",
+            "Open a new tab and search for 'best space-saving furniture 2025.'"
+        ]
+    },
+    "131": {
+        "filename": "131.png",
+        "target_box": {
+            "x": 627,
+            "y": 178,
+            "w": 284,
+            "h": 200
+        },
+        "instructions": [
+            "Scroll down to view more products.",
+            "Click on the first product in the search result list.",
+            "Click on the second product in the search result list."
+        ]
+    },
+    "132": {
+        "filename": "132.png",
+        "target_box": {
+            "x": 627,
+            "y": 178,
+            "w": 284,
+            "h": 200
+        },
+        "instructions": [
+            "Scroll down to view more products.",
+            "Click on the \"Best Seller\" label of the RCA WiFi Digital Picture Frame.",
+            "Click on the first product in the search result list."
+        ]
+    },
+    "133": {
+        "filename": "133.png",
+        "target_box": {
+            "x": 291,
+            "y": 579,
+            "w": 284,
+            "h": 200
+        },
+        "instructions": [
+            "Scroll down to view more products in the \"Small space solutions: living\" category.",
+            "Scroll down the page to view more products.",
+            "Scroll down to view more products."
+        ]
+    },
+    "134": {
+        "filename": "134.png",
+        "target_box": {
+            "x": 964,
+            "y": 579,
+            "w": 284,
+            "h": 200
+        },
+        "instructions": [
+            "Scroll down to view more products.",
+            "Open a new tab and search for 'best space-saving furniture for small spaces.'",
+            "Click on the first product in the search result list."
+        ]
+    },
+    "135": {
+        "filename": "135.png",
+        "target_box": {
+            "x": 964,
+            "y": 579,
+            "w": 284,
+            "h": 200
+        },
+        "instructions": [
+            "Open the first recommended YouTube video and like it.",
+            "Open a new tab and search for 'best small space solutions for living.'",
+            "Click on the second product in the search result list."
+        ]
+    },
+    "136": {
+        "filename": "136.png",
+        "target_box": {
+            "x": 291,
+            "y": 579,
+            "w": 284,
+            "h": 200
+        },
+        "instructions": [
+            "Click on the second product in the search result list.",
+            "Open a new tab and search for 'best GUI automation tools 2025.'",
+            "Click on the first product in the search result list."
+        ]
+    },
+    "137": {
+        "filename": "137.png",
+        "target_box": {
+            "x": 291,
+            "y": 579,
+            "w": 284,
+            "h": 200
+        },
+        "instructions": [
+            "Scroll down the page to view more products.",
+            "Open a new tab and search for 'best space-saving furniture 2025.'",
+            "Scroll down the page."
+        ]
+    },
+    "138": {
+        "filename": "138.png",
+        "target_box": {
+            "x": 964,
+            "y": 178,
+            "w": 284,
+            "h": 200
+        },
+        "instructions": [
+            "Open a new tab and search for 'best home decor solutions for small spaces 2025.'",
+            "Scroll down the page.",
+            "Open a new tab and search for 'best smart locks for small spaces'."
+        ]
+    },
+    "139": {
+        "filename": "139.png",
+        "target_box": {
+            "x": 627,
+            "y": 579,
+            "w": 284,
+            "h": 200
+        },
+        "instructions": [
+            "Open the first product in the search result list.",
+            "Scroll down to view more products.",
+            "Click on the second product in the search result list."
+        ]
+    },
+    "140": {
+        "filename": "140.png",
+        "target_box": {
+            "x": 291,
+            "y": 178,
+            "w": 284,
+            "h": 200
+        },
+        "instructions": [
+            "Scroll down to view more products.",
+            "Click on the first product in the search result list.",
+            "Click on the \"Best Seller\" badge of the Lenovo ThinkPad Universal Thunderbolt 4 Dock."
+        ]
+    },
+    "141": {
+        "filename": "141.png",
+        "target_box": {
+            "x": 291,
+            "y": 178,
+            "w": 284,
+            "h": 200
+        },
+        "instructions": [
+            "Click on the first product in the search result list.",
+            "Click on the \"Best Seller\" product for the 4-Port Charging Station for Multiple Devices, USB Charger Stations.",
+            "Scroll down to view more products."
+        ]
+    },
+    "142": {
+        "filename": "142.png",
+        "target_box": {
+            "x": 627,
+            "y": 178,
+            "w": 284,
+            "h": 200
+        },
+        "instructions": [
+            "Open a new tab and search for 'best wireless earbuds 2025.'",
+            "Scroll down to view more products.",
+            "Scroll down the page to view more products."
+        ]
+    },
+    "143": {
+        "filename": "143.png",
+        "target_box": {
+            "x": 964,
+            "y": 579,
+            "w": 284,
+            "h": 200
+        },
+        "instructions": [
+            "Click on the first product in the search result list.",
+            "Click on the second product in the search result list.",
+            "Open a new tab and search for 'best space-saving furniture for small spaces.'"
+        ]
+    },
+    "144": {
+        "filename": "144.png",
+        "target_box": {
+            "x": 291,
+            "y": 178,
+            "w": 284,
+            "h": 200
+        },
+        "instructions": [
+            "Scroll down to view more products.",
+            "Click on the second product in the search result list.",
+            "Click on the USB C Docking Station Dual Monitor Adapter for Dell HP, Laptop PC."
+        ]
+    },
+    "145": {
+        "filename": "145.png",
+        "target_box": {
+            "x": 291,
+            "y": 178,
+            "w": 284,
+            "h": 200
+        },
+        "instructions": [
+            "Click on the second product in the search result list.",
+            "Click on the first product in the search result list.",
+            "Open the second product in the search result list."
+        ]
+    },
+    "146": {
+        "filename": "146.png",
+        "target_box": {
+            "x": 627,
+            "y": 178,
+            "w": 284,
+            "h": 200
+        },
+        "instructions": [
+            "Click on the first product in the search result list.",
+            "Scroll down to view more products.",
+            "Open a new tab and search for 'best GUI automation tools 2025.'"
+        ]
+    },
+    "147": {
+        "filename": "147.png",
+        "target_box": {
+            "x": 291,
+            "y": 178,
+            "w": 284,
+            "h": 200
+        },
+        "instructions": [
+            "Click on the first product in the search result list.",
+            "Click on the second product in the search result list.",
+            "Scroll down the page."
+        ]
+    },
+    "148": {
+        "filename": "148.png",
+        "target_box": {
+            "x": 964,
+            "y": 178,
+            "w": 284,
+            "h": 200
+        },
+        "instructions": [
+            "Open a new tab and search for 'best GUI automation tools 2025.'",
+            "Click on the \"Best Seller\" label of the Anker USB C Cable.",
+            "Click on the \"Best Seller\" link for the Tecmojo 18U Wall Mount Rack Network Cabinet for 19\" IT."
+        ]
+    },
+    "149": {
+        "filename": "149.png",
+        "target_box": {
+            "x": 627,
+            "y": 579,
+            "w": 284,
+            "h": 200
+        },
+        "instructions": [
+            "Scroll down to view more products.",
+            "Open a new tab and search for 'best space-saving furniture for small living areas.'",
+            "Click on the second product in the search result list."
+        ]
+    },
+    "150": {
+        "filename": "150.png",
+        "target_box": {
+            "x": 627,
+            "y": 579,
+            "w": 284,
+            "h": 200
+        },
+        "instructions": [
+            "Open a new tab and search for 'best space-saving furniture for small spaces'.",
+            "Click on the second product in the search result list.",
+            "Click on the first product in the search result list."
+        ]
+    },
+    "151": {
+        "filename": "151.png",
+        "target_box": {
+            "x": 291,
+            "y": 579,
+            "w": 284,
+            "h": 200
+        },
+        "instructions": [
+            "Scroll down to view more products.",
+            "Click on the second product in the search result list.",
+            "Click on the first product in the search result list."
+        ]
+    },
+    "152": {
+        "filename": "152.png",
+        "target_box": {
+            "x": 291,
+            "y": 178,
+            "w": 284,
+            "h": 200
+        },
+        "instructions": [
+            "Open a new tab and search for 'best small space storage solutions'.",
+            "Scroll down to view more products.",
+            "Click on the second product in the search result list."
+        ]
+    },
+    "153": {
+        "filename": "153.png",
+        "target_box": {
+            "x": 964,
+            "y": 178,
+            "w": 284,
+            "h": 200
+        },
+        "instructions": [
+            "Scroll down the page.",
+            "Scroll down to view more products.",
+            "Click on the second product in the search result list."
+        ]
+    },
+    "154": {
+        "filename": "154.png",
+        "target_box": {
+            "x": 291,
+            "y": 178,
+            "w": 284,
+            "h": 200
+        },
+        "instructions": [
+            "Click on the first product in the search result list.",
+            "Scroll down to view more products.",
+            "Scroll down the page."
+        ]
+    },
+    "155": {
+        "filename": "155.png",
+        "target_box": {
+            "x": 291,
+            "y": 579,
+            "w": 284,
+            "h": 200
+        },
+        "instructions": [
+            "Click on the first product in the search result list.",
+            "Scroll down the page to view more products.",
+            "Scroll down to view more products."
+        ]
+    },
+    "156": {
+        "filename": "156.png",
+        "target_box": {
+            "x": 627,
+            "y": 579,
+            "w": 284,
+            "h": 200
+        },
+        "instructions": [
+            "Click on the first product in the search result list.",
+            "Scroll down to view more products in the \"Small space solutions: living\" category.",
+            "Click on the fourth product in the search result list."
+        ]
+    },
+    "157": {
+        "filename": "157.png",
+        "target_box": {
+            "x": 627,
+            "y": 178,
+            "w": 284,
+            "h": 200
+        },
+        "instructions": [
+            "Scroll down to view more products.",
+            "Open the first recommended YouTube video and like it.",
+            "Scroll down the page to view more products."
+        ]
+    },
+    "158": {
+        "filename": "158.png",
+        "target_box": {
+            "x": 627,
+            "y": 178,
+            "w": 284,
+            "h": 200
+        },
+        "instructions": [
+            "Scroll down to view more products.",
+            "Click on the second product in the search result list.",
+            "Click on the first product in the search result list."
+        ]
+    },
+    "159": {
+        "filename": "159.png",
+        "target_box": {
+            "x": 291,
+            "y": 178,
+            "w": 284,
+            "h": 200
+        },
+        "instructions": [
+            "Scroll down the page to view more products.",
+            "Open a new tab and search for 'best home office solutions 2025.'",
+            "Scroll down to view more products related to small space solutions for living."
+        ]
+    },
+    "160": {
+        "filename": "160.png",
+        "target_box": {
+            "x": 627,
+            "y": 178,
+            "w": 284,
+            "h": 200
+        },
+        "instructions": [
+            "Scroll down to view more products.",
+            "Click on the first product in the search result list.",
+            "Click on the second product in the search result list."
+        ]
+    },
+    "161": {
+        "filename": "161.png",
+        "target_box": {
+            "x": 627,
+            "y": 579,
+            "w": 284,
+            "h": 200
+        },
+        "instructions": [
+            "Scroll down the page.",
+            "Scroll down to view more products.",
+            "Click on the second product in the search result list."
+        ]
+    },
+    "162": {
+        "filename": "162.png",
+        "target_box": {
+            "x": 627,
+            "y": 579,
+            "w": 284,
+            "h": 200
+        },
+        "instructions": [
+            "Click on the first product in the search result list.",
+            "Scroll down to view more products.",
+            "Click on the second product in the search result list."
+        ]
+    },
+    "163": {
+        "filename": "163.png",
+        "target_box": {
+            "x": 291,
+            "y": 579,
+            "w": 284,
+            "h": 200
+        },
+        "instructions": [
+            "Open a new tab and search for 'best small space solutions for living.'",
+            "Open a new tab and search for 'best home organization products 2025.'",
+            "Scroll down to view more products in the \"Small space solutions: living\" category."
+        ]
+    },
+    "164": {
+        "filename": "164.png",
+        "target_box": {
+            "x": 964,
+            "y": 579,
+            "w": 284,
+            "h": 200
+        },
+        "instructions": [
+            "Scroll down to view more products.",
+            "Click on the first product in the search result list.",
+            "Click on the second product in the search result list."
+        ]
+    },
+    "165": {
+        "filename": "165.png",
+        "target_box": {
+            "x": 291,
+            "y": 579,
+            "w": 284,
+            "h": 200
+        },
+        "instructions": [
+            "Scroll down to view more products in the \"Small space solutions: living\" category.",
+            "Scroll down to view more products.",
+            "Click on the first product in the search result list."
+        ]
+    },
+    "166": {
+        "filename": "166.png",
+        "target_box": {
+            "x": 291,
+            "y": 579,
+            "w": 284,
+            "h": 200
+        },
+        "instructions": [
+            "Scroll down to view more products.",
+            "Scroll down the page to view more products.",
+            "Open the first product in the search result list."
+        ]
+    },
+    "167": {
+        "filename": "167.png",
+        "target_box": {
+            "x": 291,
+            "y": 178,
+            "w": 284,
+            "h": 200
+        },
+        "instructions": [
+            "Click on the first product in the search result list.",
+            "Click on the second product in the search result list.",
+            "Scroll down the page to view more products."
+        ]
+    },
+    "168": {
+        "filename": "168.png",
+        "target_box": {
+            "x": 291,
+            "y": 579,
+            "w": 284,
+            "h": 200
+        },
+        "instructions": [
+            "Click on the \"AI Translator Wireless Earbuds\" product.",
+            "Scroll down to view more products.",
+            "Click on the \"Best Seller\" badge of the AI Translator Wireless Earbuds."
+        ]
+    },
+    "169": {
+        "filename": "169.png",
+        "target_box": {
+            "x": 964,
+            "y": 579,
+            "w": 284,
+            "h": 200
+        },
+        "instructions": [
+            "Scroll down to view more products.",
+            "Open the first product page for the EPSON 702 DURABrite Ultra Ink.",
+            "Open the second product in the search result list."
+        ]
+    },
+    "170": {
+        "filename": "170.png",
+        "target_box": {
+            "x": 627,
+            "y": 579,
+            "w": 284,
+            "h": 200
+        },
+        "instructions": [
+            "Open the first recommended YouTube video and like it.",
+            "Scroll down to view more products.",
+            "Click on the second product in the search result list."
+        ]
+    },
+    "171": {
+        "filename": "171.png",
+        "target_box": {
+            "x": 291,
+            "y": 579,
+            "w": 284,
+            "h": 200
+        },
+        "instructions": [
+            "Open the first product link to view more details.",
+            "Click on the first product in the search result list.",
+            "Click on the second product in the search result list."
+        ]
+    },
+    "172": {
+        "filename": "172.png",
+        "target_box": {
+            "x": 627,
+            "y": 579,
+            "w": 284,
+            "h": 200
+        },
+        "instructions": [
+            "Scroll down to view more products.",
+            "Click on the \"HP Original 910XL Black, Cyan, Magenta, Yellow High-Yield Ink...\" product.",
+            "Scroll down the page to view more products."
+        ]
+    },
+    "173": {
+        "filename": "173.png",
+        "target_box": {
+            "x": 964,
+            "y": 579,
+            "w": 284,
+            "h": 200
+        },
+        "instructions": [
+            "Click on the second product in the search result list.",
+            "Open the first recommended YouTube video and like it.",
+            "Scroll down to view more products."
+        ]
+    },
+    "174": {
+        "filename": "174.png",
+        "target_box": {
+            "x": 627,
+            "y": 178,
+            "w": 284,
+            "h": 200
+        },
+        "instructions": [
+            "Scroll down to view more products.",
+            "Scroll down the page to view more products.",
+            "Click on the first product in the search result list."
+        ]
+    },
+    "175": {
+        "filename": "175.png",
+        "target_box": {
+            "x": 964,
+            "y": 178,
+            "w": 284,
+            "h": 200
+        },
+        "instructions": [
+            "Scroll down to view more products.",
+            "Click on the second product in the search result list.",
+            "Scroll down the page to view more products."
+        ]
+    },
+    "176": {
+        "filename": "176.png",
+        "target_box": {
+            "x": 291,
+            "y": 579,
+            "w": 284,
+            "h": 200
+        },
+        "instructions": [
+            "Click on the first product in the search result list.",
+            "Scroll down to view more products.",
+            "Open the first product page for the TP-Link EAP610 Ultra-Slim Wireless Access Point for Business."
+        ]
+    },
+    "177": {
+        "filename": "177.png",
+        "target_box": {
+            "x": 627,
+            "y": 579,
+            "w": 284,
+            "h": 200
+        },
+        "instructions": [
+            "Click on the first product in the search result list.",
+            "Scroll down to view more products in the \"Small space solutions: living\" category.",
+            "Click on the second product in the search result list."
+        ]
+    },
+    "178": {
+        "filename": "178.png",
+        "target_box": {
+            "x": 964,
+            "y": 579,
+            "w": 284,
+            "h": 200
+        },
+        "instructions": [
+            "Click on the second product in the search result list.",
+            "Click on the \"FF01 Smart Lock, Fingerprint Door Lock, 5 in 1 Keyless Entry Door Lock\" product.",
+            "Click on the first product in the search result list."
+        ]
+    },
+    "179": {
+        "filename": "179.png",
+        "target_box": {
+            "x": 627,
+            "y": 178,
+            "w": 284,
+            "h": 200
+        },
+        "instructions": [
+            "Click on the second product in the search result list.",
+            "Scroll down to view more products.",
+            "Open the first product in the search result list."
+        ]
+    },
+    "180": {
+        "filename": "180.png",
+        "target_box": {
+            "x": 291,
+            "y": 178,
+            "w": 284,
+            "h": 200
+        },
+        "instructions": [
+            "Open the first product page.",
+            "Click on the first product in the search result list.",
+            "Open a new tab and search for 'best GUI automation tools 2025.'"
+        ]
+    },
+    "181": {
+        "filename": "181.png",
+        "target_box": {
+            "x": 627,
+            "y": 178,
+            "w": 284,
+            "h": 200
+        },
+        "instructions": [
+            "Scroll down to view more products.",
+            "Click on the first product in the search result list.",
+            "Open a new tab and search for 'best smart home gadgets 2025.'"
+        ]
+    },
+    "182": {
+        "filename": "182.png",
+        "target_box": {
+            "x": 291,
+            "y": 579,
+            "w": 284,
+            "h": 200
+        },
+        "instructions": [
+            "Scroll down to view more products in the \"Small space solutions: living\" category.",
+            "Open a new tab and search for 'best space-saving furniture 2025.'",
+            "Click on the first product in the search result list."
+        ]
+    },
+    "183": {
+        "filename": "183.png",
+        "target_box": {
+            "x": 291,
+            "y": 178,
+            "w": 284,
+            "h": 200
+        },
+        "instructions": [
+            "Scroll down to view more products.",
+            "Click on the second product in the search result list.",
+            "Open a new tab and search for 'best space-saving furniture 2025.'"
+        ]
+    },
+    "184": {
+        "filename": "184.png",
+        "target_box": {
+            "x": 291,
+            "y": 178,
+            "w": 284,
+            "h": 200
+        },
+        "instructions": [
+            "Click on the \"Best Seller\" product with the highest number of customer reviews.",
+            "Scroll down the page.",
+            "Scroll down to view more products."
+        ]
+    },
+    "185": {
+        "filename": "185.png",
+        "target_box": {
+            "x": 627,
+            "y": 178,
+            "w": 284,
+            "h": 200
+        },
+        "instructions": [
+            "Scroll down to view more products.",
+            "Click on the second product in the search result list.",
+            "Click on the first product in the search result list."
+        ]
+    },
+    "186": {
+        "filename": "186.png",
+        "target_box": {
+            "x": 964,
+            "y": 178,
+            "w": 284,
+            "h": 200
+        },
+        "instructions": [
+            "Scroll down to view more products.",
+            "Click on the second product in the search result list.",
+            "Click on the first product in the search result list."
+        ]
+    },
+    "187": {
+        "filename": "187.png",
+        "target_box": {
+            "x": 291,
+            "y": 178,
+            "w": 284,
+            "h": 200
+        },
+        "instructions": [
+            "Scroll down to view more products.",
+            "Scroll down the page.",
+            "Scroll down to view more products in the \"Small space solutions: living\" category."
+        ]
+    },
+    "188": {
+        "filename": "188.png",
+        "target_box": {
+            "x": 964,
+            "y": 178,
+            "w": 284,
+            "h": 200
+        },
+        "instructions": [
+            "Click on the second product in the search result list.",
+            "Click on the \"AI Translator Wireless Earbuds\" product.",
+            "Click on the first product in the search result list."
+        ]
+    },
+    "189": {
+        "filename": "189.png",
+        "target_box": {
+            "x": 627,
+            "y": 579,
+            "w": 284,
+            "h": 200
+        },
+        "instructions": [
+            "Click on the second product in the search result list.",
+            "Scroll down the page.",
+            "Scroll down to view more products."
+        ]
+    },
+    "190": {
+        "filename": "190.png",
+        "target_box": {
+            "x": 964,
+            "y": 178,
+            "w": 284,
+            "h": 200
+        },
+        "instructions": [
+            "Scroll down the page to view more products.",
+            "Click on the \"Best Seller\" icon for the Car Apple Carplay Cable, USB A to Lightning Cable for iPhone 14, 14 Plus, 14 Pro, 14 Pro Max.",
+            "Scroll down to view more products."
+        ]
+    },
+    "191": {
+        "filename": "191.png",
+        "target_box": {
+            "x": 627,
+            "y": 579,
+            "w": 284,
+            "h": 200
+        },
+        "instructions": [
+            "Open a new tab and search for 'best space-saving furniture 2025.'",
+            "Scroll down to view more products.",
+            "Open a new tab and search for 'best GUI automation tools 2025.'"
+        ]
+    },
+    "192": {
+        "filename": "192.png",
+        "target_box": {
+            "x": 291,
+            "y": 579,
+            "w": 284,
+            "h": 200
+        },
+        "instructions": [
+            "Click on the first product in the search result list.",
+            "Scroll down to view more products.",
+            "Click on the second product in the search result list."
+        ]
+    },
+    "193": {
+        "filename": "193.png",
+        "target_box": {
+            "x": 627,
+            "y": 178,
+            "w": 284,
+            "h": 200
+        },
+        "instructions": [
+            "Scroll down to view more products.",
+            "Click on the 4-Port Charging Station for Multiple Devices, USB Charger Stations product.",
+            "Scroll down the page to view more products."
+        ]
+    },
+    "194": {
+        "filename": "194.png",
+        "target_box": {
+            "x": 964,
+            "y": 178,
+            "w": 284,
+            "h": 200
+        },
+        "instructions": [
+            "Click on the first product in the search result list.",
+            "Scroll down to view more products.",
+            "Scroll down the page."
+        ]
+    },
+    "195": {
+        "filename": "195.png",
+        "target_box": {
+            "x": 627,
+            "y": 178,
+            "w": 284,
+            "h": 200
+        },
+        "instructions": [
+            "Click on the fourth product in the search result list.",
+            "Scroll down to view more products.",
+            "Open the first recommended YouTube video and like it."
+        ]
+    },
+    "196": {
+        "filename": "196.png",
+        "target_box": {
+            "x": 964,
+            "y": 178,
+            "w": 284,
+            "h": 200
+        },
+        "instructions": [
+            "Scroll down to view more products.",
+            "Scroll down to view more products in the \"Small space solutions: living\" category.",
+            "Open a new tab and search for 'best home decor products 2025.'"
+        ]
+    },
+    "197": {
+        "filename": "197.png",
+        "target_box": {
+            "x": 964,
+            "y": 579,
+            "w": 284,
+            "h": 200
+        },
+        "instructions": [
+            "Click on the first product in the search result list.",
+            "Click on the \"ESR iPad Pro 13 Inch Case with Keyboard (M4, 2024), iPad Pro 13... Best Seller\" product.",
+            "Scroll down the page to view more products."
+        ]
+    },
+    "198": {
+        "filename": "198.png",
+        "target_box": {
+            "x": 291,
+            "y": 178,
+            "w": 284,
+            "h": 200
+        },
+        "instructions": [
+            "Scroll down to view more products.",
+            "Click on the first product in the search result list.",
+            "Open a new tab and search for 'best GUI automation tools 2025.'"
+        ]
+    },
+    "199": {
+        "filename": "199.png",
+        "target_box": {
+            "x": 627,
+            "y": 579,
+            "w": 284,
+            "h": 200
+        },
+        "instructions": [
+            "Scroll down the page to view more products.",
+            "Click on the second product in the search result list.",
+            "Scroll down to view more products."
+        ]
+    },
+    "200": {
+        "filename": "200.png",
+        "target_box": {
+            "x": 627,
+            "y": 579,
+            "w": 284,
+            "h": 200
+        },
+        "instructions": [
+            "Click on the first product in the search result list.",
+            "Scroll down to view more products.",
+            "Click on the second product in the search result list."
+        ]
+    },
+    "201": {
+        "filename": "201.png",
+        "target_box": {
+            "x": 964,
+            "y": 579,
+            "w": 284,
+            "h": 200
+        },
+        "instructions": [
+            "Click on the second product in the search result list.",
+            "Scroll down the page.",
+            "Click on the first product in the search result list."
+        ]
+    },
+    "202": {
+        "filename": "202.png",
+        "target_box": {
+            "x": 627,
+            "y": 579,
+            "w": 284,
+            "h": 200
+        },
+        "instructions": [
+            "Scroll down to view more products.",
+            "Scroll down to view more small space solutions.",
+            "Scroll down the page."
+        ]
+    },
+    "203": {
+        "filename": "203.png",
+        "target_box": {
+            "x": 291,
+            "y": 178,
+            "w": 284,
+            "h": 200
+        },
+        "instructions": [
+            "Click on the first product in the search result list.",
+            "Click on the second product in the search result list.",
+            "Open a new tab and search for 'best small space solutions for living 2025.'"
+        ]
+    },
+    "204": {
+        "filename": "204.png",
+        "target_box": {
+            "x": 964,
+            "y": 178,
+            "w": 284,
+            "h": 200
+        },
+        "instructions": [
+            "Click on the second product in the search result list.",
+            "Scroll down to view more products in the \"Small space solutions: living\" category.",
+            "Open a new tab and search for 'best home office solutions 2025.'"
+        ]
+    },
+    "205": {
+        "filename": "205.png",
+        "target_box": {
+            "x": 627,
+            "y": 579,
+            "w": 284,
+            "h": 200
+        },
+        "instructions": [
+            "Scroll down to view more products.",
+            "Click on the first product in the search result list.",
+            "Open a new tab and search for 'best home decor products for small spaces.'"
+        ]
+    },
+    "206": {
+        "filename": "206.png",
+        "target_box": {
+            "x": 964,
+            "y": 579,
+            "w": 284,
+            "h": 200
+        },
+        "instructions": [
+            "Click on the \"Best Seller\" button of the EPSON 252 DURABrite Ultra Ink High Capacity Black & Standard Ink Cartridge product.",
+            "Open a new tab and search for 'best small space solutions living 2025.'",
+            "Scroll down to view more products."
+        ]
+    },
+    "207": {
+        "filename": "207.png",
+        "target_box": {
+            "x": 291,
+            "y": 579,
+            "w": 284,
+            "h": 200
+        },
+        "instructions": [
+            "Click on the second product in the search result list.",
+            "Open a new tab and search for 'best space-saving furniture for small living spaces 2025.'",
+            "Open a new tab and search for 'best GUI automation tools 2025.'"
+        ]
+    },
+    "208": {
+        "filename": "208.png",
+        "target_box": {
+            "x": 964,
+            "y": 579,
+            "w": 284,
+            "h": 200
+        },
+        "instructions": [
+            "Click on the second product in the search result list.",
+            "Scroll down the page to view more products.",
+            "Open the first recommended YouTube video and like it."
+        ]
+    },
+    "209": {
+        "filename": "209.png",
+        "target_box": {
+            "x": 627,
+            "y": 178,
+            "w": 284,
+            "h": 200
+        },
+        "instructions": [
+            "Scroll down to view more products.",
+            "Click on the first product in the search result list.",
+            "Click on the 4-Port Charging Station for Multiple Devices."
+        ]
+    },
+    "210": {
+        "filename": "210.png",
+        "target_box": {
+            "x": 291,
+            "y": 579,
+            "w": 284,
+            "h": 200
+        },
+        "instructions": [
+            "Click on the second product in the search result list.",
+            "Scroll down to view more products.",
+            "Click on the 5-in-1 Memory Card Reader, USB OTG Adapter & SD Card Reader product."
+        ]
+    },
+    "211": {
+        "filename": "211.png",
+        "target_box": {
+            "x": 291,
+            "y": 178,
+            "w": 284,
+            "h": 200
+        },
+        "instructions": [
+            "Scroll down to view more products.",
+            "Scroll down the page.",
+            "Click on the second product in the search result list."
+        ]
+    },
+    "212": {
+        "filename": "212.png",
+        "target_box": {
+            "x": 964,
+            "y": 178,
+            "w": 284,
+            "h": 200
+        },
+        "instructions": [
+            "Scroll down the page.",
+            "Click on the second product in the search result list.",
+            "Scroll down to view more products in the \"Small space solutions: living\" section."
+        ]
+    },
+    "213": {
+        "filename": "213.png",
+        "target_box": {
+            "x": 291,
+            "y": 178,
+            "w": 284,
+            "h": 200
+        },
+        "instructions": [
+            "Click on the first product in the search result list.",
+            "Scroll down to view more products.",
+            "Open a new tab and search for 'best small space solutions for living 2025.'"
+        ]
+    },
+    "214": {
+        "filename": "214.png",
+        "target_box": {
+            "x": 964,
+            "y": 178,
+            "w": 284,
+            "h": 200
+        },
+        "instructions": [
+            "Click on the first product in the search result list.",
+            "Click on the \"AI Translator Wireless Earbuds\" product.",
+            "Scroll down to view more products."
+        ]
+    },
+    "215": {
+        "filename": "215.png",
+        "target_box": {
+            "x": 291,
+            "y": 579,
+            "w": 284,
+            "h": 200
+        },
+        "instructions": [
+            "Click on the first product in the search result list.",
+            "Scroll down to view more products.",
+            "Scroll down the page to view more products."
+        ]
+    },
+    "216": {
+        "filename": "216.png",
+        "target_box": {
+            "x": 291,
+            "y": 579,
+            "w": 284,
+            "h": 200
+        },
+        "instructions": [
+            "Click on the first product in the search result list.",
+            "Scroll down to view more products.",
+            "Click on the second product in the search result list."
+        ]
+    },
+    "217": {
+        "filename": "217.png",
+        "target_box": {
+            "x": 964,
+            "y": 579,
+            "w": 284,
+            "h": 200
+        },
+        "instructions": [
+            "Click on the first product in the search result list.",
+            "Scroll down to view more products.",
+            "Click on the second product in the search result list."
+        ]
+    },
+    "218": {
+        "filename": "218.png",
+        "target_box": {
+            "x": 291,
+            "y": 579,
+            "w": 284,
+            "h": 200
+        },
+        "instructions": [
+            "Open a new tab and search for 'best smart home security systems 2025.'",
+            "Scroll down to view more products.",
+            "Click on the second product in the search result list."
+        ]
+    },
+    "219": {
+        "filename": "219.png",
+        "target_box": {
+            "x": 291,
+            "y": 178,
+            "w": 284,
+            "h": 200
+        },
+        "instructions": [
+            "Click on the first product in the search result list.",
+            "Scroll down to view more products.",
+            "Click on the fourth product in the search result list."
+        ]
+    },
+    "220": {
+        "filename": "220.png",
+        "target_box": {
+            "x": 291,
+            "y": 178,
+            "w": 284,
+            "h": 200
+        },
+        "instructions": [
+            "Click on the first product in the search result list.",
+            "Open a new tab and search for 'best home decor solutions 2025.'",
+            "Click on the \"Best Seller\" label of the 4-Port Charging Station for Multiple Devices, USB Charger Stations..."
+        ]
+    },
+    "221": {
+        "filename": "221.png",
+        "target_box": {
+            "x": 291,
+            "y": 579,
+            "w": 284,
+            "h": 200
+        },
+        "instructions": [
+            "Scroll down the page to view more products.",
+            "Open a new tab and search for 'best space-saving furniture 2025.'",
+            "Click on the \"Best Seller\" label of the \"TOMLOV DM602 Flex Digital Soldering Microscope 2000x...\" product."
+        ]
+    },
+    "222": {
+        "filename": "222.png",
+        "target_box": {
+            "x": 291,
+            "y": 178,
+            "w": 284,
+            "h": 200
+        },
+        "instructions": [
+            "Scroll down the page.",
+            "Scroll down to view more products.",
+            "Click on the first product in the search result list."
+        ]
+    },
+    "223": {
+        "filename": "223.png",
+        "target_box": {
+            "x": 964,
+            "y": 579,
+            "w": 284,
+            "h": 200
+        },
+        "instructions": [
+            "Open a new tab and search for 'best home decor products 2025.'",
+            "Scroll down to view more products.",
+            "Scroll down the page to view more products."
+        ]
+    },
+    "224": {
+        "filename": "224.png",
+        "target_box": {
+            "x": 627,
+            "y": 579,
+            "w": 284,
+            "h": 200
+        },
+        "instructions": [
+            "Scroll down to view more products.",
+            "Click on the first product in the search result list.",
+            "Click on the second product in the search result list."
+        ]
+    },
+    "225": {
+        "filename": "225.png",
+        "target_box": {
+            "x": 627,
+            "y": 579,
+            "w": 284,
+            "h": 200
+        },
+        "instructions": [
+            "Click on the first product in the search result list.",
+            "Scroll down to view more products.",
+            "Click on the second product in the search result list."
+        ]
+    },
+    "226": {
+        "filename": "226.png",
+        "target_box": {
+            "x": 627,
+            "y": 579,
+            "w": 284,
+            "h": 200
+        },
+        "instructions": [
+            "Scroll down to view more products.",
+            "Scroll down the page to view more products.",
+            "Click on the second product in the search result list."
+        ]
+    },
+    "227": {
+        "filename": "227.png",
+        "target_box": {
+            "x": 964,
+            "y": 178,
+            "w": 284,
+            "h": 200
+        },
+        "instructions": [
+            "Click on the second product in the search result list.",
+            "Click on the first product in the search result list.",
+            "Open the first recommended YouTube video and like it."
+        ]
+    },
+    "228": {
+        "filename": "228.png",
+        "target_box": {
+            "x": 964,
+            "y": 579,
+            "w": 284,
+            "h": 200
+        },
+        "instructions": [
+            "Scroll down to view more products.",
+            "Click on the first product in the search result list.",
+            "Open the first recommended YouTube video and like it."
+        ]
+    },
+    "229": {
+        "filename": "229.png",
+        "target_box": {
+            "x": 964,
+            "y": 579,
+            "w": 284,
+            "h": 200
+        },
+        "instructions": [
+            "Scroll down to view more products.",
+            "Scroll down the page to view more products.",
+            "Scroll down to view more items."
+        ]
+    },
+    "230": {
+        "filename": "230.png",
+        "target_box": {
+            "x": 964,
+            "y": 178,
+            "w": 284,
+            "h": 200
+        },
+        "instructions": [
+            "Scroll down to view more products.",
+            "Click on the first product in the search result list.",
+            "Click on the second product in the search result list."
+        ]
+    },
+    "231": {
+        "filename": "231.png",
+        "target_box": {
+            "x": 291,
+            "y": 178,
+            "w": 284,
+            "h": 200
+        },
+        "instructions": [
+            "Scroll down to view more products.",
+            "Open a new tab and search for 'best home automation systems 2025.'",
+            "Click on the first product in the search result list."
+        ]
+    },
+    "232": {
+        "filename": "232.png",
+        "target_box": {
+            "x": 964,
+            "y": 579,
+            "w": 284,
+            "h": 200
+        },
+        "instructions": [
+            "Scroll down to view more products.",
+            "Click on the first product in the search result list.",
+            "Click on the second product in the search result list."
+        ]
+    },
+    "233": {
+        "filename": "233.png",
+        "target_box": {
+            "x": 627,
+            "y": 178,
+            "w": 284,
+            "h": 200
+        },
+        "instructions": [
+            "Click on the second product in the search result list.",
+            "Scroll down to view more products.",
+            "Click on the first product in the search result list."
+        ]
+    },
+    "234": {
+        "filename": "234.png",
+        "target_box": {
+            "x": 627,
+            "y": 178,
+            "w": 284,
+            "h": 200
+        },
+        "instructions": [
+            "Click on the fourth product in the search result list.",
+            "Scroll down to view more products.",
+            "Open a new tab and search for 'best GUI automation tools 2025.'"
+        ]
+    },
+    "235": {
+        "filename": "235.png",
+        "target_box": {
+            "x": 964,
+            "y": 178,
+            "w": 284,
+            "h": 200
+        },
+        "instructions": [
+            "Scroll down to view more products.",
+            "Open a new tab and search for 'best small space solutions for living 2025.'",
+            "Click on the second product in the search result list."
+        ]
+    },
+    "236": {
+        "filename": "236.png",
+        "target_box": {
+            "x": 291,
+            "y": 579,
+            "w": 284,
+            "h": 200
+        },
+        "instructions": [
+            "Click on the first product listing for the Brother Genuine High Yield Color Ink Cartridge.",
+            "Open a new tab and search for 'best home storage solutions 2025.'",
+            "Click on the first product in the search result list."
+        ]
+    },
+    "237": {
+        "filename": "237.png",
+        "target_box": {
+            "x": 291,
+            "y": 178,
+            "w": 284,
+            "h": 200
+        },
+        "instructions": [
+            "Scroll down to view more products.",
+            "Click on the first product in the search result list.",
+            "Click on the second product in the search result list."
+        ]
+    },
+    "238": {
+        "filename": "238.png",
+        "target_box": {
+            "x": 964,
+            "y": 579,
+            "w": 284,
+            "h": 200
+        },
+        "instructions": [
+            "Click on the fourth product in the search result list.",
+            "Click on the first product in the search result list.",
+            "Scroll down to view more products."
+        ]
+    },
+    "239": {
+        "filename": "239.png",
+        "target_box": {
+            "x": 291,
+            "y": 178,
+            "w": 284,
+            "h": 200
+        },
+        "instructions": [
+            "Open the first product in the search result list.",
+            "Scroll down to view more products.",
+            "Click on the second product in the search result list."
+        ]
+    },
+    "240": {
+        "filename": "240.png",
+        "target_box": {
+            "x": 627,
+            "y": 178,
+            "w": 284,
+            "h": 200
+        },
+        "instructions": [
+            "Click on the first product in the search result list.",
+            "Scroll down to view more products.",
+            "Click on the second product in the search result list."
+        ]
+    },
+    "241": {
+        "filename": "241.png",
+        "target_box": {
+            "x": 291,
+            "y": 178,
+            "w": 284,
+            "h": 200
+        },
+        "instructions": [
+            "Click on the second product in the search result list.",
+            "Open a new tab and search for 'best small space solutions for living.'",
+            "Scroll down to view more products."
+        ]
+    },
+    "242": {
+        "filename": "242.png",
+        "target_box": {
+            "x": 291,
+            "y": 579,
+            "w": 284,
+            "h": 200
+        },
+        "instructions": [
+            "Scroll down to view more products.",
+            "Click on the second product in the search result list.",
+            "Scroll down to view more products in the \"Small space solutions: living\" category."
+        ]
+    },
+    "243": {
+        "filename": "243.png",
+        "target_box": {
+            "x": 964,
+            "y": 579,
+            "w": 284,
+            "h": 200
+        },
+        "instructions": [
+            "Open a new tab and search for 'best home office setup ideas 2025.'",
+            "Scroll down to view more products.",
+            "Open a new tab and search for 'best home decor products 2025.'"
+        ]
+    },
+    "244": {
+        "filename": "244.png",
+        "target_box": {
+            "x": 627,
+            "y": 178,
+            "w": 284,
+            "h": 200
+        },
+        "instructions": [
+            "Click on the first product in the search result list.",
+            "Scroll down the page to view more products.",
+            "Click on the second product in the search result list."
+        ]
+    },
+    "245": {
+        "filename": "245.png",
+        "target_box": {
+            "x": 964,
+            "y": 178,
+            "w": 284,
+            "h": 200
+        },
+        "instructions": [
+            "Click on the second product in the search result list.",
+            "Scroll down the page to view more products.",
+            "Click on the first product in the search result list."
+        ]
+    },
+    "246": {
+        "filename": "246.png",
+        "target_box": {
+            "x": 964,
+            "y": 579,
+            "w": 284,
+            "h": 200
+        },
+        "instructions": [
+            "Click on the second product in the search result list.",
+            "Click on the \"Best Seller\" label of the TECKNET Wireless Mouse for Laptop.",
+            "Open a new tab and search for 'best travel accessories 2025.'"
+        ]
+    },
+    "247": {
+        "filename": "247.png",
+        "target_box": {
+            "x": 291,
+            "y": 178,
+            "w": 284,
+            "h": 200
+        },
+        "instructions": [
+            "Click on the first product in the search result list.",
+            "Scroll down the page.",
+            "Scroll down to view more products."
+        ]
+    },
+    "248": {
+        "filename": "248.png",
+        "target_box": {
+            "x": 627,
+            "y": 579,
+            "w": 284,
+            "h": 200
+        },
+        "instructions": [
+            "Click on the second product in the search result list.",
+            "Scroll down to view more products.",
+            "Open a new tab and search for 'best GUI automation tools 2025.'"
+        ]
+    },
+    "249": {
+        "filename": "249.png",
+        "target_box": {
+            "x": 627,
+            "y": 579,
+            "w": 284,
+            "h": 200
+        },
+        "instructions": [
+            "Scroll down to view more products.",
+            "Open a new tab and search for 'best GUI automation tools 2025.'",
+            "Click on the second product in the search result list."
+        ]
+    },
+    "250": {
+        "filename": "250.png",
+        "target_box": {
+            "x": 291,
+            "y": 579,
+            "w": 284,
+            "h": 200
+        },
+        "instructions": [
+            "Scroll down to view more products.",
+            "Open the first product page of the \"Lian Li UNL Fan SL-Infinity 120-Triple Pack-ARGB Fan (Non-...\" product.",
+            "Click on the second product in the search result list."
+        ]
+    },
+    "251": {
+        "filename": "251.png",
+        "target_box": {
+            "x": 964,
+            "y": 178,
+            "w": 284,
+            "h": 200
+        },
+        "instructions": [
+            "Open a new tab and search for 'best small space solutions for living.'",
+            "Open the first recommended YouTube video and like it.",
+            "Scroll down to view more products."
+        ]
+    },
+    "252": {
+        "filename": "252.png",
+        "target_box": {
+            "x": 291,
+            "y": 579,
+            "w": 284,
+            "h": 200
+        },
+        "instructions": [
+            "Scroll down the page to view more products.",
+            "Scroll down to view more products.",
+            "Click on the fourth product in the search result list."
+        ]
+    },
+    "253": {
+        "filename": "253.png",
+        "target_box": {
+            "x": 627,
+            "y": 178,
+            "w": 284,
+            "h": 200
+        },
+        "instructions": [
+            "Scroll down to view more products.",
+            "Click on the second product in the search result list.",
+            "Open a new tab and search for 'best gaming controllers 2025.'"
+        ]
+    },
+    "254": {
+        "filename": "254.png",
+        "target_box": {
+            "x": 964,
+            "y": 579,
+            "w": 284,
+            "h": 200
+        },
+        "instructions": [
+            "Scroll down to view more products.",
+            "Open a new tab and search for 'best GUI automation tools 2025.'",
+            "Click on the \"Best Seller\" icon next to the \"TP-Link ER605 V2 Wired Gigabit VPN Router, Up to 3 WAN Ethernet Ports\" listing."
+        ]
+    },
+    "255": {
+        "filename": "255.png",
+        "target_box": {
+            "x": 291,
+            "y": 178,
+            "w": 284,
+            "h": 200
+        },
+        "instructions": [
+            "Click on the second product in the search result list.",
+            "Click on the first product in the search result list.",
+            "Scroll down to view more products."
+        ]
+    },
+    "256": {
+        "filename": "256.png",
+        "target_box": {
+            "x": 964,
+            "y": 579,
+            "w": 284,
+            "h": 200
+        },
+        "instructions": [
+            "Scroll down to view more products.",
+            "Click on the second product in the search result list.",
+            "Click on the \"Best Seller\" tab for the \"Logitech MX Ergo Wireless Trackball Mouse, Ergonomic...\" product."
+        ]
+    },
+    "257": {
+        "filename": "257.png",
+        "target_box": {
+            "x": 964,
+            "y": 579,
+            "w": 284,
+            "h": 200
+        },
+        "instructions": [
+            "Click on the first product in the search result list.",
+            "Scroll down to view more products.",
+            "Scroll down the page to view more products."
+        ]
+    },
+    "258": {
+        "filename": "258.png",
+        "target_box": {
+            "x": 291,
+            "y": 178,
+            "w": 284,
+            "h": 200
+        },
+        "instructions": [
+            "Open a new tab and search for 'best USB hub for small spaces'.",
+            "Click on the second product in the search result list.",
+            "Scroll down to view more products."
+        ]
+    },
+    "259": {
+        "filename": "259.png",
+        "target_box": {
+            "x": 964,
+            "y": 579,
+            "w": 284,
+            "h": 200
+        },
+        "instructions": [
+            "Open the first recommended YouTube video and like it.",
+            "Scroll down to view more products.",
+            "Click on the second product in the search result list."
+        ]
+    },
+    "260": {
+        "filename": "260.png",
+        "target_box": {
+            "x": 627,
+            "y": 579,
+            "w": 284,
+            "h": 200
+        },
+        "instructions": [
+            "Click on the first product in the search result list.",
+            "Scroll down the page.",
+            "Scroll down to view more products."
+        ]
+    },
+    "261": {
+        "filename": "261.png",
+        "target_box": {
+            "x": 291,
+            "y": 178,
+            "w": 284,
+            "h": 200
+        },
+        "instructions": [
+            "Scroll down to view more products.",
+            "Click on the first product in the search result list.",
+            "Click on the second product in the search result list."
+        ]
+    },
+    "262": {
+        "filename": "262.png",
+        "target_box": {
+            "x": 627,
+            "y": 178,
+            "w": 284,
+            "h": 200
+        },
+        "instructions": [
+            "Click on the second product in the search result list.",
+            "Scroll down to view more products.",
+            "Click on the WiFi Extender Signal Booster for Home: Internet Repeater Long Range product."
+        ]
+    },
+    "263": {
+        "filename": "263.png",
+        "target_box": {
+            "x": 291,
+            "y": 178,
+            "w": 284,
+            "h": 200
+        },
+        "instructions": [
+            "Click on the first product in the search result list.",
+            "Click on the second product in the search result list.",
+            "Scroll down to view more products."
+        ]
+    },
+    "264": {
+        "filename": "264.png",
+        "target_box": {
+            "x": 627,
+            "y": 579,
+            "w": 284,
+            "h": 200
+        },
+        "instructions": [
+            "Scroll down to view more products.",
+            "Open a new tab and search for 'best home decor products for small spaces 2025.'",
+            "Scroll down the page."
+        ]
+    },
+    "265": {
+        "filename": "265.png",
+        "target_box": {
+            "x": 964,
+            "y": 579,
+            "w": 284,
+            "h": 200
+        },
+        "instructions": [
+            "Click on the Lenovo USA ThinkPad Thunderbolt 3 Dock Gen 2 135W (40AN0135U) product.",
+            "Scroll down to view more products.",
+            "Click on the \"Lenovo USA ThinkPad Thunderbolt 3 Dock Gen 2 135W (40AN0135U)\" product."
+        ]
+    },
+    "266": {
+        "filename": "266.png",
+        "target_box": {
+            "x": 291,
+            "y": 579,
+            "w": 284,
+            "h": 200
+        },
+        "instructions": [
+            "Scroll down to view more products.",
+            "Click on the first product in the search result list.",
+            "Open a new tab and search for 'best portable power stations 2025.'"
+        ]
+    },
+    "267": {
+        "filename": "267.png",
+        "target_box": {
+            "x": 291,
+            "y": 178,
+            "w": 284,
+            "h": 200
+        },
+        "instructions": [
+            "Click on the \"4-Port Charging Station for Multiple Devices\" product.",
+            "Click on the second product in the search result list.",
+            "Scroll down to view more products in the \"Small space solutions: living\" category."
+        ]
+    },
+    "268": {
+        "filename": "268.png",
+        "target_box": {
+            "x": 291,
+            "y": 579,
+            "w": 284,
+            "h": 200
+        },
+        "instructions": [
+            "Click on the first product in the search result list.",
+            "Scroll down the page.",
+            "Scroll down to view more products."
+        ]
+    },
+    "269": {
+        "filename": "269.png",
+        "target_box": {
+            "x": 964,
+            "y": 178,
+            "w": 284,
+            "h": 200
+        },
+        "instructions": [
+            "Click on the first product in the search result list.",
+            "Scroll down to view more products.",
+            "Open the first product link in the search result."
+        ]
+    },
+    "270": {
+        "filename": "270.png",
+        "target_box": {
+            "x": 291,
+            "y": 579,
+            "w": 284,
+            "h": 200
+        },
+        "instructions": [
+            "Scroll down to view more products.",
+            "Click on the second product in the search result list.",
+            "Open a new tab and search for 'best 4K action cameras 2025.'"
+        ]
+    },
+    "271": {
+        "filename": "271.png",
+        "target_box": {
+            "x": 964,
+            "y": 579,
+            "w": 284,
+            "h": 200
+        },
+        "instructions": [
+            "Click on the first product in the search result list.",
+            "Scroll down to view more products.",
+            "Click on the \"Best Seller\" link next to the \"Laptop Stand for Desk, Adjustable Computer Stand with 360°...\" product."
+        ]
+    },
+    "272": {
+        "filename": "272.png",
+        "target_box": {
+            "x": 627,
+            "y": 178,
+            "w": 284,
+            "h": 200
+        },
+        "instructions": [
+            "Scroll down to view more products.",
+            "Scroll down the page to view more products.",
+            "Open the first recommended YouTube video and like it."
+        ]
+    },
+    "273": {
+        "filename": "273.png",
+        "target_box": {
+            "x": 627,
+            "y": 178,
+            "w": 284,
+            "h": 200
+        },
+        "instructions": [
+            "Open the first product page for the SPARIN 3 Pack Screen Protector.",
+            "Click on the first product in the search result list.",
+            "Open a new tab and search for 'best space-saving furniture 2025.'"
+        ]
+    },
+    "274": {
+        "filename": "274.png",
+        "target_box": {
+            "x": 627,
+            "y": 178,
+            "w": 284,
+            "h": 200
+        },
+        "instructions": [
+            "Scroll down the page to view more products.",
+            "Click on the second product in the search result list.",
+            "Scroll down to view more products."
+        ]
+    },
+    "275": {
+        "filename": "275.png",
+        "target_box": {
+            "x": 964,
+            "y": 178,
+            "w": 284,
+            "h": 200
+        },
+        "instructions": [
+            "Open the first recommended YouTube video and like it.",
+            "Click on the first product in the search result list.",
+            "Scroll down to view more products."
+        ]
+    },
+    "276": {
+        "filename": "276.png",
+        "target_box": {
+            "x": 291,
+            "y": 178,
+            "w": 284,
+            "h": 200
+        },
+        "instructions": [
+            "Click on the first product in the search result list.",
+            "Click on the second product in the search result list.",
+            "Scroll down to view more products."
+        ]
+    },
+    "277": {
+        "filename": "277.png",
+        "target_box": {
+            "x": 964,
+            "y": 178,
+            "w": 284,
+            "h": 200
+        },
+        "instructions": [
+            "Click on the second product in the search result list.",
+            "Click on the first product in the search result list.",
+            "Scroll down to view more products."
+        ]
+    },
+    "278": {
+        "filename": "278.png",
+        "target_box": {
+            "x": 627,
+            "y": 178,
+            "w": 284,
+            "h": 200
+        },
+        "instructions": [
+            "Scroll down to view more products.",
+            "Click on the second product in the search result list.",
+            "Click on the first product in the search result list."
+        ]
+    },
+    "279": {
+        "filename": "279.png",
+        "target_box": {
+            "x": 291,
+            "y": 579,
+            "w": 284,
+            "h": 200
+        },
+        "instructions": [
+            "Click on the first product in the search result list.",
+            "Scroll down the page to view more products.",
+            "Scroll down to view more products."
+        ]
+    },
+    "280": {
+        "filename": "280.png",
+        "target_box": {
+            "x": 627,
+            "y": 579,
+            "w": 284,
+            "h": 200
+        },
+        "instructions": [
+            "Scroll down to view more products.",
+            "Click on the first product in the search result list.",
+            "Scroll down the page."
+        ]
+    },
+    "281": {
+        "filename": "281.png",
+        "target_box": {
+            "x": 627,
+            "y": 579,
+            "w": 284,
+            "h": 200
+        },
+        "instructions": [
+            "Scroll down to view more products.",
+            "Click on the second product in the search result list.",
+            "Click on the first product in the search result list."
+        ]
+    },
+    "282": {
+        "filename": "282.png",
+        "target_box": {
+            "x": 627,
+            "y": 178,
+            "w": 284,
+            "h": 200
+        },
+        "instructions": [
+            "Scroll down the page to view more products.",
+            "Scroll down to view more products.",
+            "Open a new tab and search for 'best smart home devices 2025.'"
+        ]
+    },
+    "283": {
+        "filename": "283.png",
+        "target_box": {
+            "x": 627,
+            "y": 178,
+            "w": 284,
+            "h": 200
+        },
+        "instructions": [
+            "Click on the 4-Port Charging Station for Multiple Devices product.",
+            "Scroll down to view more products.",
+            "Click on the second product in the search result list."
+        ]
+    },
+    "284": {
+        "filename": "284.png",
+        "target_box": {
+            "x": 964,
+            "y": 579,
+            "w": 284,
+            "h": 200
+        },
+        "instructions": [
+            "Scroll down to view more products.",
+            "Scroll down to view more products in the \"Small space solutions: living\" category.",
+            "Click on the second product in the search result list."
+        ]
+    },
+    "285": {
+        "filename": "285.png",
+        "target_box": {
+            "x": 627,
+            "y": 178,
+            "w": 284,
+            "h": 200
+        },
+        "instructions": [
+            "Click on the \"Best Seller\" button for the \"Samsung Galaxy Tab S9 11\" product.",
+            "Click on the first product in the search result list.",
+            "Scroll down to view more products."
+        ]
+    },
+    "286": {
+        "filename": "286.png",
+        "target_box": {
+            "x": 627,
+            "y": 579,
+            "w": 284,
+            "h": 200
+        },
+        "instructions": [
+            "Scroll down to view more products.",
+            "Click on the first product in the search result list.",
+            "Scroll down the page to view more products."
+        ]
+    },
+    "287": {
+        "filename": "287.png",
+        "target_box": {
+            "x": 291,
+            "y": 579,
+            "w": 284,
+            "h": 200
+        },
+        "instructions": [
+            "Click on the second product in the search result list.",
+            "Open a new tab and search for 'best home decor products 2025.'",
+            "Open the first product in the search result list."
+        ]
+    },
+    "288": {
+        "filename": "288.png",
+        "target_box": {
+            "x": 627,
+            "y": 178,
+            "w": 284,
+            "h": 200
+        },
+        "instructions": [
+            "Scroll down to view more products in the \"Small space solutions: living\" category.",
+            "Click on the second product in the search result list.",
+            "Click on the first product in the search result list."
+        ]
+    },
+    "289": {
+        "filename": "289.png",
+        "target_box": {
+            "x": 627,
+            "y": 178,
+            "w": 284,
+            "h": 200
+        },
+        "instructions": [
+            "Click on the second product in the search result list.",
+            "Scroll down the page to view more products.",
+            "Scroll down to view more products."
+        ]
+    },
+    "290": {
+        "filename": "290.png",
+        "target_box": {
+            "x": 627,
+            "y": 178,
+            "w": 284,
+            "h": 200
+        },
+        "instructions": [
+            "Click on the second product in the search result list.",
+            "Open a new tab and search for 'best smart home devices 2025.'",
+            "Open a new tab and search for 'best space-saving furniture ideas 2025.'"
+        ]
+    },
+    "291": {
+        "filename": "291.png",
+        "target_box": {
+            "x": 627,
+            "y": 579,
+            "w": 284,
+            "h": 200
+        },
+        "instructions": [
+            "Scroll down to view more products.",
+            "Open a new tab and search for 'best small space solutions for living.'",
+            "Scroll down to view more products in the \"Small space solutions: living\" category."
+        ]
+    },
+    "292": {
+        "filename": "292.png",
+        "target_box": {
+            "x": 291,
+            "y": 579,
+            "w": 284,
+            "h": 200
+        },
+        "instructions": [
+            "Click on the second product in the search result list.",
+            "Scroll down to view more products.",
+            "Click on the first product in the search result list."
+        ]
+    },
+    "293": {
+        "filename": "293.png",
+        "target_box": {
+            "x": 627,
+            "y": 579,
+            "w": 284,
+            "h": 200
+        },
+        "instructions": [
+            "Scroll down to view more products.",
+            "Scroll down the page to view more products.",
+            "Click on the first product in the search result list."
+        ]
+    },
+    "294": {
+        "filename": "294.png",
+        "target_box": {
+            "x": 291,
+            "y": 178,
+            "w": 284,
+            "h": 200
+        },
+        "instructions": [
+            "Scroll down to view more products.",
+            "Open the first recommended YouTube video and like it.",
+            "Click on the first product in the search result list."
+        ]
+    },
+    "295": {
+        "filename": "295.png",
+        "target_box": {
+            "x": 964,
+            "y": 579,
+            "w": 284,
+            "h": 200
+        },
+        "instructions": [
+            "Click on the first product in the search result list.",
+            "Open a new tab and search for 'best home decor products 2025.'",
+            "Click on the second product in the search result list."
+        ]
+    },
+    "296": {
+        "filename": "296.png",
+        "target_box": {
+            "x": 291,
+            "y": 178,
+            "w": 284,
+            "h": 200
+        },
+        "instructions": [
+            "Open the first product page of the 4-Port Charging Station for Multiple Devices.",
+            "Click on the Timekettle Fluentalk New T1 Translator Device.",
+            "Scroll down to view more products."
+        ]
+    },
+    "297": {
+        "filename": "297.png",
+        "target_box": {
+            "x": 964,
+            "y": 579,
+            "w": 284,
+            "h": 200
+        },
+        "instructions": [
+            "Click on the first product in the search result list.",
+            "Scroll down to view more products.",
+            "Click on the second product in the search result list."
+        ]
+    },
+    "298": {
+        "filename": "298.png",
+        "target_box": {
+            "x": 291,
+            "y": 178,
+            "w": 284,
+            "h": 200
+        },
+        "instructions": [
+            "Scroll down to view more products.",
+            "Click on the first product in the search result list.",
+            "Click on the Bluetooth Shipping Label Printer product."
+        ]
+    },
+    "299": {
+        "filename": "299.png",
+        "target_box": {
+            "x": 964,
+            "y": 579,
+            "w": 284,
+            "h": 200
+        },
+        "instructions": [
+            "Scroll down the page.",
+            "Click on the first product in the search result list.",
+            "Scroll down to view more products."
+        ]
+    },
+    "300": {
+        "filename": "300.png",
+        "target_box": {
+            "x": 291,
+            "y": 579,
+            "w": 284,
+            "h": 200
+        },
+        "instructions": [
+            "Click on the first product in the search result list.",
+            "Scroll down to view more products.",
+            "Click on the second product in the search result list."
+        ]
+    },
+    "301": {
+        "filename": "301.png",
+        "target_box": {
+            "x": 291,
+            "y": 579,
+            "w": 284,
+            "h": 200
+        },
+        "instructions": [
+            "Scroll down the page to view more product options.",
+            "Scroll down to view more products.",
+            "Click on the second product in the search result list."
+        ]
+    },
+    "302": {
+        "filename": "302.png",
+        "target_box": {
+            "x": 964,
+            "y": 178,
+            "w": 284,
+            "h": 200
+        },
+        "instructions": [
+            "Click on the first product in the search result list.",
+            "Click on the second product in the search result list.",
+            "Click on the \"Best Seller\" label of the 6 Inch USB C Charger Cord, 2 Pack Short USB C to C Cable Braided product."
+        ]
+    },
+    "303": {
+        "filename": "303.png",
+        "target_box": {
+            "x": 291,
+            "y": 579,
+            "w": 284,
+            "h": 200
+        },
+        "instructions": [
+            "Scroll down the page to view more products.",
+            "Open the first recommended YouTube video and like it.",
+            "Click on the second product in the search result list."
+        ]
+    },
+    "304": {
+        "filename": "304.png",
+        "target_box": {
+            "x": 291,
+            "y": 178,
+            "w": 284,
+            "h": 200
+        },
+        "instructions": [
+            "Click on the first product in the search result list.",
+            "Scroll down to view more products.",
+            "Scroll down the page to view more products."
+        ]
+    },
+    "305": {
+        "filename": "305.png",
+        "target_box": {
+            "x": 627,
+            "y": 579,
+            "w": 284,
+            "h": 200
+        },
+        "instructions": [
+            "Open a new tab and search for 'best GUI automation tools 2025.'",
+            "Scroll down to view more products.",
+            "Click on the second product in the search result list."
+        ]
+    },
+    "306": {
+        "filename": "306.png",
+        "target_box": {
+            "x": 627,
+            "y": 579,
+            "w": 284,
+            "h": 200
+        },
+        "instructions": [
+            "Scroll down to view more products.",
+            "Click on the first product in the search result list.",
+            "Click on the second product in the search result list."
+        ]
+    },
+    "307": {
+        "filename": "307.png",
+        "target_box": {
+            "x": 627,
+            "y": 579,
+            "w": 284,
+            "h": 200
+        },
+        "instructions": [
+            "Open a new tab and search for 'best home office solutions 2025.'",
+            "Click on the \"Best Seller\" icon of the Travel Backpack product.",
+            "Open the first recommended YouTube video and like it."
+        ]
+    },
+    "308": {
+        "filename": "308.png",
+        "target_box": {
+            "x": 964,
+            "y": 579,
+            "w": 284,
+            "h": 200
+        },
+        "instructions": [
+            "Click on the first product in the search result list.",
+            "Scroll down to view more products.",
+            "Open a new tab and search for 'best home decor products for small spaces.'"
+        ]
+    },
+    "309": {
+        "filename": "309.png",
+        "target_box": {
+            "x": 291,
+            "y": 178,
+            "w": 284,
+            "h": 200
+        },
+        "instructions": [
+            "Click on the first product in the search result list.",
+            "Click on the second product in the search result list.",
+            "Scroll down to view more products."
+        ]
+    },
+    "310": {
+        "filename": "310.png",
+        "target_box": {
+            "x": 627,
+            "y": 579,
+            "w": 284,
+            "h": 200
+        },
+        "instructions": [
+            "Click on the second product in the search result list.",
+            "Click on the first product in the search result list.",
+            "Scroll down to view more products."
+        ]
+    },
+    "311": {
+        "filename": "311.png",
+        "target_box": {
+            "x": 291,
+            "y": 178,
+            "w": 284,
+            "h": 200
+        },
+        "instructions": [
+            "Click on the first product in the search result list.",
+            "Open a new tab and search for 'best home decor products 2025.'",
+            "Scroll down to view more products."
+        ]
+    },
+    "312": {
+        "filename": "312.png",
+        "target_box": {
+            "x": 291,
+            "y": 579,
+            "w": 284,
+            "h": 200
+        },
+        "instructions": [
+            "Scroll down to view more products in the \"Small space solutions: living\" category.",
+            "Open the first product page for the Lenovo L15 Portable Monitor.",
+            "Scroll down to view more products."
+        ]
+    },
+    "313": {
+        "filename": "313.png",
+        "target_box": {
+            "x": 291,
+            "y": 579,
+            "w": 284,
+            "h": 200
+        },
+        "instructions": [
+            "Click on the first product in the search result list.",
+            "Click on the second product in the search result list.",
+            "Scroll down to view more products in the \"Small space solutions: living\" category."
+        ]
+    },
+    "314": {
+        "filename": "314.png",
+        "target_box": {
+            "x": 627,
+            "y": 579,
+            "w": 284,
+            "h": 200
+        },
+        "instructions": [
+            "Scroll down to view more products.",
+            "Click on the second product in the search result list.",
+            "Click on the \"Best Seller\" tag of the Canon CLI-42 Genuine Eight Color Pack."
+        ]
+    },
+    "315": {
+        "filename": "315.png",
+        "target_box": {
+            "x": 627,
+            "y": 579,
+            "w": 284,
+            "h": 200
+        },
+        "instructions": [
+            "Scroll down to view more products.",
+            "Open a new tab and search for 'best wireless gaming headsets 2025.'",
+            "Click on the first product in the search result list."
+        ]
+    },
+    "316": {
+        "filename": "316.png",
+        "target_box": {
+            "x": 291,
+            "y": 579,
+            "w": 284,
+            "h": 200
+        },
+        "instructions": [
+            "Click on the fourth product in the search result list.",
+            "Open a new tab and search for 'best HDMI cables 2025.'",
+            "Scroll down the page to view more products."
+        ]
+    },
+    "317": {
+        "filename": "317.png",
+        "target_box": {
+            "x": 627,
+            "y": 178,
+            "w": 284,
+            "h": 200
+        },
+        "instructions": [
+            "Open the second product in the search result list.",
+            "Click on the second product in the search result list.",
+            "Scroll down to view more products."
+        ]
+    },
+    "318": {
+        "filename": "318.png",
+        "target_box": {
+            "x": 627,
+            "y": 178,
+            "w": 284,
+            "h": 200
+        },
+        "instructions": [
+            "Open a new tab and search for 'best storage solutions for small spaces.'",
+            "Click on the first product in the search result list.",
+            "Click on the \"Foldable Laptop Stand, Height Adjustable Ergonomic Computer\" product."
+        ]
+    },
+    "319": {
+        "filename": "319.png",
+        "target_box": {
+            "x": 291,
+            "y": 579,
+            "w": 284,
+            "h": 200
+        },
+        "instructions": [
+            "Open a new tab and search for 'best space-saving furniture 2025.'",
+            "Click on the fourth product in the search result list.",
+            "Scroll down the page to view more products."
+        ]
+    },
+    "320": {
+        "filename": "320.png",
+        "target_box": {
+            "x": 627,
+            "y": 178,
+            "w": 284,
+            "h": 200
+        },
+        "instructions": [
+            "Scroll down the page to view more products.",
+            "Scroll down to view more products.",
+            "Click on the second product in the search result list."
+        ]
+    },
+    "321": {
+        "filename": "321.png",
+        "target_box": {
+            "x": 627,
+            "y": 579,
+            "w": 284,
+            "h": 200
+        },
+        "instructions": [
+            "Click on the second product in the search result list.",
+            "Scroll down the page.",
+            "Scroll down to view more products."
+        ]
+    },
+    "322": {
+        "filename": "322.png",
+        "target_box": {
+            "x": 964,
+            "y": 579,
+            "w": 284,
+            "h": 200
+        },
+        "instructions": [
+            "Click on the second product in the search result list.",
+            "Click on the first product in the search result list.",
+            "Scroll down the page to view more products."
+        ]
+    },
+    "323": {
+        "filename": "323.png",
+        "target_box": {
+            "x": 627,
+            "y": 178,
+            "w": 284,
+            "h": 200
+        },
+        "instructions": [
+            "Scroll down to view more products.",
+            "Click on the first product in the search result list.",
+            "Click on the fourth product in the search result list."
+        ]
+    },
+    "324": {
+        "filename": "324.png",
+        "target_box": {
+            "x": 291,
+            "y": 579,
+            "w": 284,
+            "h": 200
+        },
+        "instructions": [
+            "Scroll down to view more products.",
+            "Click on the \"Bluetooth Thermal Shipping Label Printer\" product.",
+            "Scroll down to view more products in the \"Small space solutions: living\" category."
+        ]
+    },
+    "325": {
+        "filename": "325.png",
+        "target_box": {
+            "x": 627,
+            "y": 178,
+            "w": 284,
+            "h": 200
+        },
+        "instructions": [
+            "Scroll down to view more products.",
+            "Click on the fourth product in the search result list.",
+            "Click on the second product in the search result list."
+        ]
+    },
+    "326": {
+        "filename": "326.png",
+        "target_box": {
+            "x": 964,
+            "y": 178,
+            "w": 284,
+            "h": 200
+        },
+        "instructions": [
+            "Open a new tab and search for 'best home decor solutions for small spaces.'",
+            "Scroll down to view more products.",
+            "Click on the first product in the search result list."
+        ]
+    },
+    "327": {
+        "filename": "327.png",
+        "target_box": {
+            "x": 291,
+            "y": 178,
+            "w": 284,
+            "h": 200
+        },
+        "instructions": [
+            "Click on the first product in the search result list.",
+            "Click on the second product in the search result list.",
+            "Scroll down the page to view more products."
+        ]
+    },
+    "328": {
+        "filename": "328.png",
+        "target_box": {
+            "x": 627,
+            "y": 579,
+            "w": 284,
+            "h": 200
+        },
+        "instructions": [
+            "Click on the second product in the search result list.",
+            "Click on the first product in the search result list.",
+            "Scroll down to view more products."
+        ]
+    },
+    "329": {
+        "filename": "329.png",
+        "target_box": {
+            "x": 291,
+            "y": 579,
+            "w": 284,
+            "h": 200
+        },
+        "instructions": [
+            "Open a new tab and search for 'best home office furniture 2025.'",
+            "Click on the \"TC51 TC52 TC56 TC57 TC510K Case with Hand Strap\" product.",
+            "Open a new tab and search for 'best small space solutions for living.'"
+        ]
+    },
+    "330": {
+        "filename": "330.png",
+        "target_box": {
+            "x": 627,
+            "y": 178,
+            "w": 284,
+            "h": 200
+        },
+        "instructions": [
+            "Click on the first product in the search result list.",
+            "Scroll down to view more products.",
+            "Click on the \"Best Seller\" button for the Travel Backpack."
+        ]
+    },
+    "331": {
+        "filename": "331.png",
+        "target_box": {
+            "x": 627,
+            "y": 579,
+            "w": 284,
+            "h": 200
+        },
+        "instructions": [
+            "Scroll down to view more products in the \"Small space solutions: living\" category.",
+            "Scroll down to view more products.",
+            "Open a new tab and search for 'best home decor products under $50.'"
+        ]
+    },
+    "332": {
+        "filename": "332.png",
+        "target_box": {
+            "x": 964,
+            "y": 178,
+            "w": 284,
+            "h": 200
+        },
+        "instructions": [
+            "Open a new tab and search for 'best gaming laptops 2025.'",
+            "Click on the second product in the search result list.",
+            "Scroll down to view more products in the \"Small space solutions: living\" category."
+        ]
+    },
+    "333": {
+        "filename": "333.png",
+        "target_box": {
+            "x": 627,
+            "y": 579,
+            "w": 284,
+            "h": 200
+        },
+        "instructions": [
+            "Click on the second product in the search result list.",
+            "Click on the first product in the search result list.",
+            "Open a new tab and search for 'best home office setup ideas 2025.'"
+        ]
+    },
+    "334": {
+        "filename": "334.png",
+        "target_box": {
+            "x": 964,
+            "y": 579,
+            "w": 284,
+            "h": 200
+        },
+        "instructions": [
+            "Scroll down to view more products.",
+            "Open a new tab and search for 'best small space solutions for living 2025.'",
+            "Click on the first product in the search result list."
+        ]
+    },
+    "335": {
+        "filename": "335.png",
+        "target_box": {
+            "x": 291,
+            "y": 579,
+            "w": 284,
+            "h": 200
+        },
+        "instructions": [
+            "Scroll down to view more products.",
+            "Open a new tab and search for 'best small space solutions for living.'",
+            "Open a new tab and search for 'best home decor products 2025.'"
+        ]
+    },
+    "336": {
+        "filename": "336.png",
+        "target_box": {
+            "x": 627,
+            "y": 178,
+            "w": 284,
+            "h": 200
+        },
+        "instructions": [
+            "Click on the second product in the search result list.",
+            "Scroll down to view more products.",
+            "Click on the first product in the search result list."
+        ]
+    },
+    "337": {
+        "filename": "337.png",
+        "target_box": {
+            "x": 964,
+            "y": 178,
+            "w": 284,
+            "h": 200
+        },
+        "instructions": [
+            "Scroll down to view more products.",
+            "Open a new tab and search for 'best small space solutions 2025.'",
+            "Open a new tab and search for 'best home organization products 2025.'"
+        ]
+    },
+    "338": {
+        "filename": "338.png",
+        "target_box": {
+            "x": 964,
+            "y": 579,
+            "w": 284,
+            "h": 200
+        },
+        "instructions": [
+            "Click on the fourth product in the search result list.",
+            "Open the first recommended YouTube video and like it.",
+            "Click on the first product in the search result list."
+        ]
+    },
+    "339": {
+        "filename": "339.png",
+        "target_box": {
+            "x": 964,
+            "y": 178,
+            "w": 284,
+            "h": 200
+        },
+        "instructions": [
+            "Open the first recommended YouTube video and like it.",
+            "Open a new tab and search for 'best GUI automation tools 2025.'",
+            "Scroll down the page to view more products."
+        ]
+    },
+    "340": {
+        "filename": "340.png",
+        "target_box": {
+            "x": 627,
+            "y": 579,
+            "w": 284,
+            "h": 200
+        },
+        "instructions": [
+            "Click on the first product in the search result list.",
+            "Scroll down the page to view more products.",
+            "Click on the second product in the search result list."
+        ]
+    },
+    "341": {
+        "filename": "341.png",
+        "target_box": {
+            "x": 964,
+            "y": 579,
+            "w": 284,
+            "h": 200
+        },
+        "instructions": [
+            "Scroll down to view more products.",
+            "Click on the first product in the search result list.",
+            "Scroll down the page."
+        ]
+    },
+    "342": {
+        "filename": "342.png",
+        "target_box": {
+            "x": 291,
+            "y": 178,
+            "w": 284,
+            "h": 200
+        },
+        "instructions": [
+            "Scroll down to view more products.",
+            "Click on the first product in the search result list.",
+            "Open a new tab and search for 'best wireless chargers 2025.'"
+        ]
+    },
+    "343": {
+        "filename": "343.png",
+        "target_box": {
+            "x": 627,
+            "y": 178,
+            "w": 284,
+            "h": 200
+        },
+        "instructions": [
+            "Scroll down the page to view more products.",
+            "Scroll down to view more products in the \"Small space solutions: living\" category.",
+            "Open the first recommended YouTube video and like it."
+        ]
+    },
+    "344": {
+        "filename": "344.png",
+        "target_box": {
+            "x": 964,
+            "y": 178,
+            "w": 284,
+            "h": 200
+        },
+        "instructions": [
+            "Click on the second product in the search result list.",
+            "Scroll down to view more products.",
+            "Click on the first product in the search result list."
+        ]
+    },
+    "345": {
+        "filename": "345.png",
+        "target_box": {
+            "x": 964,
+            "y": 579,
+            "w": 284,
+            "h": 200
+        },
+        "instructions": [
+            "Click on the \"Best Seller\" label of the Logitech H111 Wired Headset.",
+            "Click on the \"Logitech H111 Wired Headset\" product.",
+            "Find the official website of the conference happening in July in Shanghai and check the keynote speakers."
+        ]
+    },
+    "346": {
+        "filename": "346.png",
+        "target_box": {
+            "x": 291,
+            "y": 178,
+            "w": 284,
+            "h": 200
+        },
+        "instructions": [
+            "Click on the first product in the search result list.",
+            "Scroll down the page.",
+            "Scroll down to view more products."
+        ]
+    },
+    "347": {
+        "filename": "347.png",
+        "target_box": {
+            "x": 627,
+            "y": 579,
+            "w": 284,
+            "h": 200
+        },
+        "instructions": [
+            "Scroll down to view more products.",
+            "Click on the second product in the search result list.",
+            "Scroll down the page to view more products."
+        ]
+    },
+    "348": {
+        "filename": "348.png",
+        "target_box": {
+            "x": 291,
+            "y": 579,
+            "w": 284,
+            "h": 200
+        },
+        "instructions": [
+            "Open a new tab and search for 'best GUI automation tools 2025.'",
+            "Scroll down to view more products.",
+            "Click on the first product in the search result list."
+        ]
+    },
+    "349": {
+        "filename": "349.png",
+        "target_box": {
+            "x": 291,
+            "y": 178,
+            "w": 284,
+            "h": 200
+        },
+        "instructions": [
+            "Scroll down the page to view more products.",
+            "Scroll down the page.",
+            "Click on the tablet 10 inch Android 14 Tablets, 6GB RAM 64GB ROM 1TB Expandable storage option."
+        ]
+    },
+    "350": {
+        "filename": "350.png",
+        "target_box": {
+            "x": 291,
+            "y": 178,
+            "w": 284,
+            "h": 200
+        },
+        "instructions": [
+            "Scroll down to view more products.",
+            "Click on the second product in the search result list.",
+            "Click on the first product in the search result list."
+        ]
+    },
+    "351": {
+        "filename": "351.png",
+        "target_box": {
+            "x": 627,
+            "y": 178,
+            "w": 284,
+            "h": 200
+        },
+        "instructions": [
+            "Scroll down to view more products.",
+            "Scroll down the page.",
+            "Open the product page for the Coiled Lightning Cable for Car."
+        ]
+    },
+    "352": {
+        "filename": "352.png",
+        "target_box": {
+            "x": 291,
+            "y": 579,
+            "w": 284,
+            "h": 200
+        },
+        "instructions": [
+            "Scroll down to view more products.",
+            "Scroll down to view more small space solutions for living.",
+            "Scroll down to view more products in the \"Small space solutions: living\" category."
+        ]
+    },
+    "353": {
+        "filename": "353.png",
+        "target_box": {
+            "x": 291,
+            "y": 178,
+            "w": 284,
+            "h": 200
+        },
+        "instructions": [
+            "Open a new tab and search for 'best compact travel accessories 2025.'",
+            "Open the first recommended YouTube video and like it.",
+            "Click on the first product in the search result list."
+        ]
+    },
+    "354": {
+        "filename": "354.png",
+        "target_box": {
+            "x": 964,
+            "y": 579,
+            "w": 284,
+            "h": 200
+        },
+        "instructions": [
+            "Scroll down to view more products.",
+            "Open a new tab and search for 'best space-saving furniture 2025.'",
+            "Scroll down to view more products in the \"Small space solutions: living\" category."
+        ]
+    },
+    "355": {
+        "filename": "355.png",
+        "target_box": {
+            "x": 627,
+            "y": 579,
+            "w": 284,
+            "h": 200
+        },
+        "instructions": [
+            "Scroll down to view more products.",
+            "Click on the first product in the search result list.",
+            "Click on the \"Best Seller\" label of the 3 Pack iPhone 16 15 Charger."
+        ]
+    },
+    "356": {
+        "filename": "356.png",
+        "target_box": {
+            "x": 964,
+            "y": 579,
+            "w": 284,
+            "h": 200
+        },
+        "instructions": [
+            "Click on the \"Best Seller\" icon for the FF01 Smart Lock, Fingerprint Door Lock.",
+            "Scroll down to view more products.",
+            "Open a new tab and search for 'best storage solutions for small spaces'."
+        ]
+    },
+    "357": {
+        "filename": "357.png",
+        "target_box": {
+            "x": 627,
+            "y": 178,
+            "w": 284,
+            "h": 200
+        },
+        "instructions": [
+            "Open a new tab and search for 'best home decor products 2025.'",
+            "Click on the second product in the search result list.",
+            "Click on the first product in the search result list."
+        ]
+    },
+    "358": {
+        "filename": "358.png",
+        "target_box": {
+            "x": 964,
+            "y": 178,
+            "w": 284,
+            "h": 200
+        },
+        "instructions": [
+            "Click on the second product in the search result list.",
+            "Open a new tab and search for 'best space-saving solutions for small living spaces.'",
+            "Scroll down to view more products."
+        ]
+    },
+    "359": {
+        "filename": "359.png",
+        "target_box": {
+            "x": 964,
+            "y": 579,
+            "w": 284,
+            "h": 200
+        },
+        "instructions": [
+            "Scroll down to view more products.",
+            "Click on the \"Memzuoix 2.4G Wireless Mouse\" product.",
+            "Click on the second product in the search result list."
+        ]
+    },
+    "360": {
+        "filename": "360.png",
+        "target_box": {
+            "x": 291,
+            "y": 579,
+            "w": 284,
+            "h": 200
+        },
+        "instructions": [
+            "Scroll down to view more products.",
+            "Open a new tab and search for 'best GUI automation tools 2025.'",
+            "Click on the second product in the search result list."
+        ]
+    },
+    "361": {
+        "filename": "361.png",
+        "target_box": {
+            "x": 964,
+            "y": 178,
+            "w": 284,
+            "h": 200
+        },
+        "instructions": [
+            "Click on the first product in the search result list.",
+            "Open the first recommended YouTube video and like it.",
+            "Click on the second product in the search result list."
+        ]
+    },
+    "362": {
+        "filename": "362.png",
+        "target_box": {
+            "x": 627,
+            "y": 178,
+            "w": 284,
+            "h": 200
+        },
+        "instructions": [
+            "Open the first recommended YouTube video and like it.",
+            "Click on the second product in the search result list.",
+            "Scroll down to view more products."
+        ]
+    },
+    "363": {
+        "filename": "363.png",
+        "target_box": {
+            "x": 291,
+            "y": 579,
+            "w": 284,
+            "h": 200
+        },
+        "instructions": [
+            "Scroll down to view more products.",
+            "Scroll down the page.",
+            "Click on the second product in the search result list."
+        ]
+    },
+    "364": {
+        "filename": "364.png",
+        "target_box": {
+            "x": 627,
+            "y": 178,
+            "w": 284,
+            "h": 200
+        },
+        "instructions": [
+            "Scroll down to view more products in the \"Small space solutions: living\" category.",
+            "Scroll down the page.",
+            "Scroll down to view more products."
+        ]
+    },
+    "365": {
+        "filename": "365.png",
+        "target_box": {
+            "x": 291,
+            "y": 579,
+            "w": 284,
+            "h": 200
+        },
+        "instructions": [
+            "Scroll down to view more products.",
+            "Click on the first product in the search result list.",
+            "Open a new tab and search for 'best space-saving furniture 2025.'"
+        ]
+    },
+    "366": {
+        "filename": "366.png",
+        "target_box": {
+            "x": 291,
+            "y": 579,
+            "w": 284,
+            "h": 200
+        },
+        "instructions": [
+            "Scroll down to view more products.",
+            "Click on the second product in the search result list.",
+            "Scroll down the page to view more products."
+        ]
+    },
+    "367": {
+        "filename": "367.png",
+        "target_box": {
+            "x": 291,
+            "y": 579,
+            "w": 284,
+            "h": 200
+        },
+        "instructions": [
+            "Click on the second product in the search result list.",
+            "Scroll down to view more products.",
+            "Open the first product page."
+        ]
+    },
+    "368": {
+        "filename": "368.png",
+        "target_box": {
+            "x": 964,
+            "y": 579,
+            "w": 284,
+            "h": 200
+        },
+        "instructions": [
+            "Click on the first product in the search result list.",
+            "Scroll down to view more products.",
+            "Click on the second product in the search result list."
+        ]
+    },
+    "369": {
+        "filename": "369.png",
+        "target_box": {
+            "x": 627,
+            "y": 579,
+            "w": 284,
+            "h": 200
+        },
+        "instructions": [
+            "Click on the first product in the search result list.",
+            "Scroll down to view more products.",
+            "Click on the second product in the search result list."
+        ]
+    },
+    "370": {
+        "filename": "370.png",
+        "target_box": {
+            "x": 627,
+            "y": 178,
+            "w": 284,
+            "h": 200
+        },
+        "instructions": [
+            "Scroll down to view more products in the \"Small space solutions: living\" category.",
+            "Click on the second product in the search result list.",
+            "Click on the \"Best Seller\" link for the \"4-Port Charging Station for Multiple Devices, USB Charger Stations...\" product."
+        ]
+    },
+    "371": {
+        "filename": "371.png",
+        "target_box": {
+            "x": 291,
+            "y": 579,
+            "w": 284,
+            "h": 200
+        },
+        "instructions": [
+            "Open a new tab and search for 'best home decor solutions 2025.'",
+            "Scroll down to view more products.",
+            "Click on the \"Best Seller\" badge of the Epson 812 DURABrite Ultra Ink High Capacity Black & Color product."
+        ]
+    },
+    "372": {
+        "filename": "372.png",
+        "target_box": {
+            "x": 627,
+            "y": 178,
+            "w": 284,
+            "h": 200
+        },
+        "instructions": [
+            "Scroll down to view more products in the \"Small space solutions: living\" category.",
+            "Open a new tab and search for 'best GUI automation tools 2025.'",
+            "Click on the second product in the search result list."
+        ]
+    },
+    "373": {
+        "filename": "373.png",
+        "target_box": {
+            "x": 627,
+            "y": 579,
+            "w": 284,
+            "h": 200
+        },
+        "instructions": [
+            "Scroll down to view more small space solutions products.",
+            "Open a new tab and search for 'best storage solutions for living spaces.'",
+            "Scroll down the page."
+        ]
+    },
+    "374": {
+        "filename": "374.png",
+        "target_box": {
+            "x": 291,
+            "y": 178,
+            "w": 284,
+            "h": 200
+        },
+        "instructions": [
+            "Scroll down to view more products.",
+            "Scroll down the page to view more products.",
+            "Click on the second product in the search result list."
+        ]
+    },
+    "375": {
+        "filename": "375.png",
+        "target_box": {
+            "x": 291,
+            "y": 178,
+            "w": 284,
+            "h": 200
+        },
+        "instructions": [
+            "Open a new tab and search for 'best space-saving furniture 2025.'",
+            "Scroll down to view more products.",
+            "Click on the first product in the search result list."
+        ]
+    },
+    "376": {
+        "filename": "376.png",
+        "target_box": {
+            "x": 291,
+            "y": 579,
+            "w": 284,
+            "h": 200
+        },
+        "instructions": [
+            "Click on the first product in the search result list.",
+            "Scroll down to view more products.",
+            "Scroll down the page."
+        ]
+    },
+    "377": {
+        "filename": "377.png",
+        "target_box": {
+            "x": 964,
+            "y": 579,
+            "w": 284,
+            "h": 200
+        },
+        "instructions": [
+            "Scroll down to view more products.",
+            "Click on the first product in the search result list.",
+            "Open the first recommended YouTube video and like it."
+        ]
+    },
+    "378": {
+        "filename": "378.png",
+        "target_box": {
+            "x": 627,
+            "y": 579,
+            "w": 284,
+            "h": 200
+        },
+        "instructions": [
+            "Scroll down to view more products in the \"Small space solutions: living\" category.",
+            "Open the first recommended YouTube video and like it.",
+            "Scroll down the page to view more products."
+        ]
+    },
+    "379": {
+        "filename": "379.png",
+        "target_box": {
+            "x": 291,
+            "y": 579,
+            "w": 284,
+            "h": 200
+        },
+        "instructions": [
+            "Scroll down to view more products.",
+            "Click on the first product in the search result list.",
+            "Scroll down the page to view more products."
+        ]
+    },
+    "380": {
+        "filename": "380.png",
+        "target_box": {
+            "x": 964,
+            "y": 579,
+            "w": 284,
+            "h": 200
+        },
+        "instructions": [
+            "Scroll down to view more products.",
+            "Open the first product link for the GhostCover Original Premium Ultra Thin Keyboard Cover Protector.",
+            "Scroll down the page."
+        ]
+    },
+    "381": {
+        "filename": "381.png",
+        "target_box": {
+            "x": 964,
+            "y": 579,
+            "w": 284,
+            "h": 200
+        },
+        "instructions": [
+            "Click on the second product in the search result list.",
+            "Scroll down the page to view more products.",
+            "Scroll down to view more products."
+        ]
+    },
+    "382": {
+        "filename": "382.png",
+        "target_box": {
+            "x": 627,
+            "y": 178,
+            "w": 284,
+            "h": 200
+        },
+        "instructions": [
+            "Scroll down to view more products.",
+            "Click on the first product in the search result list.",
+            "Click on the \"FF01 Smart Lock\" product."
+        ]
+    },
+    "383": {
+        "filename": "383.png",
+        "target_box": {
+            "x": 627,
+            "y": 178,
+            "w": 284,
+            "h": 200
+        },
+        "instructions": [
+            "Open the first recommended YouTube video and like it.",
+            "Click on the first product in the search result list.",
+            "Scroll down the page to view more products."
+        ]
+    },
+    "384": {
+        "filename": "384.png",
+        "target_box": {
+            "x": 964,
+            "y": 579,
+            "w": 284,
+            "h": 200
+        },
+        "instructions": [
+            "Scroll down the page to view more products.",
+            "Click on the first product in the search result list.",
+            "Open the first product in the search result list."
+        ]
+    },
+    "385": {
+        "filename": "385.png",
+        "target_box": {
+            "x": 627,
+            "y": 579,
+            "w": 284,
+            "h": 200
+        },
+        "instructions": [
+            "Scroll down to view more products.",
+            "Scroll down to view more products in the \"Small space solutions: living\" category.",
+            "Open a new tab and search for 'best space-saving furniture 2025.'"
+        ]
+    },
+    "386": {
+        "filename": "386.png",
+        "target_box": {
+            "x": 627,
+            "y": 178,
+            "w": 284,
+            "h": 200
+        },
+        "instructions": [
+            "Scroll down to view more products in the \"Small space solutions: living\" category.",
+            "Scroll down to view more products.",
+            "Click on the second product in the search result list."
+        ]
+    },
+    "387": {
+        "filename": "387.png",
+        "target_box": {
+            "x": 291,
+            "y": 579,
+            "w": 284,
+            "h": 200
+        },
+        "instructions": [
+            "Open a new tab and search for 'best space-saving furniture for small spaces'.",
+            "Open a new tab and search for 'best home office setup 2025.'",
+            "Scroll down to view more products."
+        ]
+    },
+    "388": {
+        "filename": "388.png",
+        "target_box": {
+            "x": 964,
+            "y": 178,
+            "w": 284,
+            "h": 200
+        },
+        "instructions": [
+            "Scroll down the page to view more products.",
+            "Click on the first product in the search result list.",
+            "Open a new tab and search for 'best home storage solutions 2025.'"
+        ]
+    },
+    "389": {
+        "filename": "389.png",
+        "target_box": {
+            "x": 291,
+            "y": 579,
+            "w": 284,
+            "h": 200
+        },
+        "instructions": [
+            "Open the first product page for the \"FF01 Smart Lock, Fingerprint Door Lock\" and read its specifications.",
+            "Click on the \"Timekettle Fluentalk New T1 Translator Device\" to view its details.",
+            "Click on the second product in the search result list."
+        ]
+    },
+    "390": {
+        "filename": "390.png",
+        "target_box": {
+            "x": 964,
+            "y": 178,
+            "w": 284,
+            "h": 200
+        },
+        "instructions": [
+            "Click on the first product in the search result list.",
+            "Scroll down to view more products.",
+            "Click on the second product in the search result list."
+        ]
+    },
+    "391": {
+        "filename": "391.png",
+        "target_box": {
+            "x": 964,
+            "y": 178,
+            "w": 284,
+            "h": 200
+        },
+        "instructions": [
+            "Scroll down to view more products.",
+            "Click on the first product in the search result list.",
+            "Click on the \"Best Seller\" link for the Cup Holder Car Tablet Mount for Truck."
+        ]
+    },
+    "392": {
+        "filename": "392.png",
+        "target_box": {
+            "x": 291,
+            "y": 178,
+            "w": 284,
+            "h": 200
+        },
+        "instructions": [
+            "Scroll down to view more products.",
+            "Open the first product in the search result list.",
+            "Click on the \"4K 30fps 8MP HDMI, LAN, Wi-Fi Color BSI CMOS C-Mount Camera\" product."
+        ]
+    },
+    "393": {
+        "filename": "393.png",
+        "target_box": {
+            "x": 291,
+            "y": 579,
+            "w": 284,
+            "h": 200
+        },
+        "instructions": [
+            "Scroll down to view more products in the \"Small space solutions: living\" category.",
+            "Scroll down to view more products.",
+            "Click on the first product in the search result list."
+        ]
+    },
+    "394": {
+        "filename": "394.png",
+        "target_box": {
+            "x": 964,
+            "y": 178,
+            "w": 284,
+            "h": 200
+        },
+        "instructions": [
+            "Click on the \"Best Seller\" icon of the USB C to C Charging Cable 6ft, 60W Fast Type C to C Charger.",
+            "Click on the second product in the search result list.",
+            "Scroll down to view more products."
+        ]
+    },
+    "395": {
+        "filename": "395.png",
+        "target_box": {
+            "x": 964,
+            "y": 178,
+            "w": 284,
+            "h": 200
+        },
+        "instructions": [
+            "Open a new tab and search for 'best GUI automation tools 2025.'",
+            "Click on the \"Best Seller\" product with the title \"POWIKU Projector with WIFI and Bluetooth, Native 720P Smart...\"",
+            "Click on the second product in the search result list."
+        ]
+    },
+    "396": {
+        "filename": "396.png",
+        "target_box": {
+            "x": 627,
+            "y": 178,
+            "w": 284,
+            "h": 200
+        },
+        "instructions": [
+            "Click on the fourth product in the search result list.",
+            "Scroll down to view more products.",
+            "Click on the second product in the search result list."
+        ]
+    },
+    "397": {
+        "filename": "397.png",
+        "target_box": {
+            "x": 627,
+            "y": 178,
+            "w": 284,
+            "h": 200
+        },
+        "instructions": [
+            "Click on the second product in the search result list.",
+            "Open a new tab and search for 'best home decor products 2025.'",
+            "Scroll down to view more products."
+        ]
+    },
+    "398": {
+        "filename": "398.png",
+        "target_box": {
+            "x": 627,
+            "y": 579,
+            "w": 284,
+            "h": 200
+        },
+        "instructions": [
+            "Click on the second product in the search result list.",
+            "Scroll down to view more products.",
+            "Click on the first product in the search result list."
+        ]
+    },
+    "399": {
+        "filename": "399.png",
+        "target_box": {
+            "x": 964,
+            "y": 178,
+            "w": 284,
+            "h": 200
+        },
+        "instructions": [
+            "Scroll down to view more products.",
+            "Scroll down to view more products in the \"Small space solutions: living\" category.",
+            "Click on the \"Best Seller\" icon for the \"POWIKU Projector with WiFi and Bluetooth, Native 720P Smart...\" product."
+        ]
+    }
+}

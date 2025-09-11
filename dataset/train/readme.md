@@ -1,0 +1,1 @@
+Here, we only showcase 1,500 screenshot-instruction training pairs. In practice, an unlimited amount of training data can be continuously generated via the LSE module.
