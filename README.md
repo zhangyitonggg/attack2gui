@@ -32,10 +32,10 @@ We provide **two separate `requirements.txt` files** to support different LVLM b
 You can install the corresponding environment with:
 
 ```bash
-# For LLaVA
+# For LLaVA-1.5-13B
 pip install -r requirements_llava.txt
 
-# For Qwen2-VL
+# For Qwen2-VL-7B、OS-Atlas-Base-7B、UI-TARS-7B-DPO
 pip install -r requirements_qwen.txt
 ```
 
